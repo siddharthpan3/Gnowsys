@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html xmlns:xlink="http://www.w3.org/1999/xlink">
+
+<head>
+	<meta charset="utf-8">
+
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+	<script src="/static/gstudio/js/d3.v3.js"></script>
+	<script src="/static/gstudio/js/d3.layout.cloud.js"></script>
+
+</head>	
+
+<body>
+<!--
+	<SCRIPT type="text/javascript">
+	function tagfunction(tag_name){
+		tag = tag_name;
+		$.ajax({
+			url: '/gstudio/resources/images/geturl/',
+			//type: 'POST',
+			data: {data:tagname},
+			success: function(data){
+						$('.tags'+id).html(data);
+					       }
+			});  
+	</SCRIPT>
+-->
+	
+	<script type="text/javascript">
+	
+	var fill = d3.scale.category20();
+	   
+	var w = 1200,
+	    h = 700;
+
+	var mult = 10;
+	    	   
+	var sample;
+	  d3.json("/json/tag_cloud.json", function(data)
+	  {
+	 
+   	      d3.layout.cloud().size([w, h])
+		  .words(data
+		    .map(function(d) 
+		  {
+		  	return {text: d.tag_name, size: (d.weight * mult) + mult, pagelist: d.pages, url:"objectapp/"};
+		  }))
+		  .rotate(function() { return ~~(Math.random() * 2) * 90; })
+		  .font("Times New Roman")
+		  .fontSize(function(d) { return d.size; })
+		  .on("end", draw)
+		  .start();
+		});
+	  function draw(words) {
+		d3.select("body").append("svg")		    
+		    .attr("width", w)
+		    .attr("height", h)
+		  .append("g")
+		    .attr("transform", "translate(600,350)")
+		  .selectAll("text")
+		    .data(words)
+		  .enter()		 
+  		    .append("svg:a")
+                  .attr("xlink:href", function(d){return d.url;})
+		  .append("text")		    		  
+		    .style("font-size", function(d) { return d.size + "px"; })
+		    .style("font-family", "Times New Roman")
+		    .style("fill", function(d, i) { return fill(i); })
+		    .attr("text-anchor", "middle")
+		    .attr("transform", function(d) {
+		      return "translate(" + [d.x, d.y] + ")rotate(" + d.rotate + ")";
+		    })		    
+		    .text(function(d) { return d.text; })		    
+		  .append("svg:title")
+			.text(function(d)
+			{
+				var j , str = "";
+				count = (d.size/mult)-1;
+					
+				if (count > 0 && d.pagelist[0])
+				{											 
+					for(j = 0 ; j < count ; j++)
+					{
+						str += d.pagelist[j]['title'];
+						str += ((j+1) != count)? " , " + "\n" : "\n" ;							
+		        	}
+		        	return str;
+		        }
+		       	    
+		        return "No associated Page !!";	
+		      });		
+			}
+	</script>	
+
+</body>
+
+</html>

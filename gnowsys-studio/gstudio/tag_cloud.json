@@ -1,0 +1,2374 @@
+[
+	{
+		"tag_name": "2D",
+		"pages" : [
+					{"page_title" : "QRcode","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: QRcode>>","associated_tags" : [{"tag" : "2D"},{"tag" : "barcode"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "ADAPT",
+		"pages" : [
+					{"page_title" : "A cloudscape on the ground ","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: A cloudscape on the ground >>","associated_tags" : [{"tag" : "ADAPT"},{"tag" : "Adding Attributetypes"}]},
+					{"page_title" : "Free Software for Education","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Free Software for Education>>","associated_tags" : [{"tag" : "ADAPT"}]},
+					{"page_title" : "Inputability","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Inputability>>","associated_tags" : [{"tag" : "ADAPT"},{"tag" : "Accessibility"},{"tag" : "BAPSI"},{"tag" : "HBCSE"},{"tag" : "special needs"}]}
+				  ],
+		"weight" : "3"
+	},
+	{
+		"tag_name": "Accessibility",
+		"pages" : [
+					{"page_title" : "Inputability","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Inputability>>","associated_tags" : [{"tag" : "ADAPT"},{"tag" : "Accessibility"},{"tag" : "BAPSI"},{"tag" : "HBCSE"},{"tag" : "special needs"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "Activity-based Learning",
+		"pages" : [
+					{"page_title" : "Walter Bender at HBCSE","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Walter Bender at HBCSE>>","associated_tags" : [{"tag" : "Activity-based Learning"},{"tag" : "MIT"},{"tag" : "OLPC"},{"tag" : "Sugar"},{"tag" : "Turtle"},{"tag" : "Walter Bender"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "Adding Attributetypes",
+		"pages" : [
+					{"page_title" : "Projects 2013","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Projects 2013>>","associated_tags" : [{"tag" : "Adding Attributetypes"}]},
+					{"page_title" : "Adding Attributetypes","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Adding Attributetypes>>","associated_tags" : [{"tag" : "Adding Attributetypes"},{"tag" : "attributetypes"},{"tag" : "gnowledge org"},{"tag" : "lab"}]},
+					{"page_title" : "A cloudscape on the ground ","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: A cloudscape on the ground >>","associated_tags" : [{"tag" : "ADAPT"},{"tag" : "Adding Attributetypes"}]}
+				  ],
+		"weight" : "3"
+	},
+	{
+		"tag_name": "Adding Relationtype",
+		"pages" : [
+					{"page_title" : "West Bengal DIETs","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: West Bengal DIETs>>","associated_tags" : [{"tag" : "Adding Relationtype"}]},
+					{"page_title" : " Adding Relationtype","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject:  Adding Relationtype>>","associated_tags" : [{"tag" : "Adding Relationtype"},{"tag" : "Relationtype"},{"tag" : "gnowledge org"},{"tag" : "lab"}]}
+				  ],
+		"weight" : "2"
+	},
+	{
+		"tag_name": "Anne Leonard",
+		"pages" : [
+					{"page_title" : "The story of stuff project","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: The story of stuff project>>","associated_tags" : [{"tag" : "Anne Leonard"},{"tag" : "consumerism"},{"tag" : "story of stuff"},{"tag" : "stuff"},{"tag" : "sustainability"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "Arithmatique",
+		"pages" : [
+					{"page_title" : "Pascaline Calculator ","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Pascaline Calculator >>","associated_tags" : [{"tag" : "Arithmatique"},{"tag" : "Pascaline"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "Attriutetypes",
+		"pages" : [
+					
+				  ],
+		"weight" : "0"
+	},
+	{
+		"tag_name": "BAPSI",
+		"pages" : [
+					{"page_title" : "Inputability","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Inputability>>","associated_tags" : [{"tag" : "ADAPT"},{"tag" : "Accessibility"},{"tag" : "BAPSI"},{"tag" : "HBCSE"},{"tag" : "special needs"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "BED teacher",
+		"pages" : [
+					{"page_title" : " Workshop for B.ED Teacher training for FOSS, CSSM,Chembur ","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject:  Workshop for B.ED Teacher training for FOSS, CSSM,Chembur >>","associated_tags" : [{"tag" : "BED teacher"},{"tag" : "CSSM"},{"tag" : "Chembur"},{"tag" : "Workshop"},{"tag" : "foss"},{"tag" : "training"}]},
+					{"page_title" : "XO-serial-number-Glab ","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: XO-serial-number-Glab >>","associated_tags" : [{"tag" : "BED teacher"},{"tag" : "OLPC"},{"tag" : "XO"},{"tag" : "gijubhai badheka"},{"tag" : "glab"}]}
+				  ],
+		"weight" : "2"
+	},
+	{
+		"tag_name": "Banganga",
+		"pages" : [
+					{"page_title" : "Testing purpose","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Testing purpose>>","associated_tags" : [{"tag" : "Banganga"}]},
+					{"page_title" : "Wireless Freedom","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Wireless Freedom>>","associated_tags" : [{"tag" : "Banganga"},{"tag" : "Duck"},{"tag" : "commons"},{"tag" : "freedom to share"},{"tag" : "noise pollution"},{"tag" : "regulation"},{"tag" : "spectrum"}]}
+				  ],
+		"weight" : "2"
+	},
+	{
+		"tag_name": "CSSM",
+		"pages" : [
+					{"page_title" : " Workshop for B.ED Teacher training for FOSS, CSSM,Chembur ","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject:  Workshop for B.ED Teacher training for FOSS, CSSM,Chembur >>","associated_tags" : [{"tag" : "BED teacher"},{"tag" : "CSSM"},{"tag" : "Chembur"},{"tag" : "Workshop"},{"tag" : "foss"},{"tag" : "training"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "Chembur",
+		"pages" : [
+					{"page_title" : " Workshop for B.ED Teacher training for FOSS, CSSM,Chembur ","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject:  Workshop for B.ED Teacher training for FOSS, CSSM,Chembur >>","associated_tags" : [{"tag" : "BED teacher"},{"tag" : "CSSM"},{"tag" : "Chembur"},{"tag" : "Workshop"},{"tag" : "foss"},{"tag" : "training"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "Duck",
+		"pages" : [
+					{"page_title" : "Wireless Freedom","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Wireless Freedom>>","associated_tags" : [{"tag" : "Banganga"},{"tag" : "Duck"},{"tag" : "commons"},{"tag" : "freedom to share"},{"tag" : "noise pollution"},{"tag" : "regulation"},{"tag" : "spectrum"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "Dynamic",
+		"pages" : [
+					{"page_title" : " lab.gnowledge.org-Research","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject:  lab.gnowledge.org-Research>>","associated_tags" : [{"tag" : "Dynamic"},{"tag" : "Research"},{"tag" : "gnowledge lab"},{"tag" : "knowledge"},{"tag" : "lab"},{"tag" : "network"},{"tag" : "structure"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "Dyscalculia",
+		"pages" : [
+					{"page_title" : "The NayaNa Game","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: The NayaNa Game>>","associated_tags" : [{"tag" : "Dyscalculia"},{"tag" : "Dysgraphia"},{"tag" : "Dyslexia"},{"tag" : "Exclusion"},{"tag" : "Inclusion"},{"tag" : "Learning Disabilities"},{"tag" : "NayaNa"},{"tag" : "Orthographics"},{"tag" : "Palindromic"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "Dysgraphia",
+		"pages" : [
+					{"page_title" : "Manifesto for 21st Century","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Manifesto for 21st Century>>","associated_tags" : [{"tag" : "Dysgraphia"}]},
+					{"page_title" : "The NayaNa Game","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: The NayaNa Game>>","associated_tags" : [{"tag" : "Dyscalculia"},{"tag" : "Dysgraphia"},{"tag" : "Dyslexia"},{"tag" : "Exclusion"},{"tag" : "Inclusion"},{"tag" : "Learning Disabilities"},{"tag" : "NayaNa"},{"tag" : "Orthographics"},{"tag" : "Palindromic"}]},
+					{"page_title" : "NayaNa","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: NayaNa>>","associated_tags" : [{"tag" : "Dysgraphia"},{"tag" : "Dyslexia"},{"tag" : "NayaNa"},{"tag" : "Palindromic Font"},{"tag" : "Phonetic Script"},{"tag" : "nayana"}]}
+				  ],
+		"weight" : "3"
+	},
+	{
+		"tag_name": "Dyslexia",
+		"pages" : [
+					{"page_title" : "The NayaNa Game","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: The NayaNa Game>>","associated_tags" : [{"tag" : "Dyscalculia"},{"tag" : "Dysgraphia"},{"tag" : "Dyslexia"},{"tag" : "Exclusion"},{"tag" : "Inclusion"},{"tag" : "Learning Disabilities"},{"tag" : "NayaNa"},{"tag" : "Orthographics"},{"tag" : "Palindromic"}]},
+					{"page_title" : "NayaNa","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: NayaNa>>","associated_tags" : [{"tag" : "Dysgraphia"},{"tag" : "Dyslexia"},{"tag" : "NayaNa"},{"tag" : "Palindromic Font"},{"tag" : "Phonetic Script"},{"tag" : "nayana"}]},
+					{"page_title" : "shaping the metastudio","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: shaping the metastudio>>","associated_tags" : [{"tag" : "Dyslexia"},{"tag" : "blue sky"}]}
+				  ],
+		"weight" : "3"
+	},
+	{
+		"tag_name": "Education",
+		"pages" : [
+					{"page_title" : "FOSS for Education at Poornapragnya ","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: FOSS for Education at Poornapragnya >>","associated_tags" : [{"tag" : "Education"},{"tag" : "foss"},{"tag" : "poornpragnya"}]},
+					{"page_title" : " FOSS for Education Workshop Amravati","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject:  FOSS for Education Workshop Amravati>>","associated_tags" : [{"tag" : "Education"},{"tag" : "Workshop Amravati"},{"tag" : "foss"}]}
+				  ],
+		"weight" : "2"
+	},
+	{
+		"tag_name": "Event",
+		"pages" : [
+					{"page_title" : "lab.gnowledge.org-Events ","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: lab.gnowledge.org-Events >>","associated_tags" : [{"tag" : "Event"},{"tag" : "gnowledge"},{"tag" : "lab"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "Exclusion",
+		"pages" : [
+					{"page_title" : "The NayaNa Game","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: The NayaNa Game>>","associated_tags" : [{"tag" : "Dyscalculia"},{"tag" : "Dysgraphia"},{"tag" : "Dyslexia"},{"tag" : "Exclusion"},{"tag" : "Inclusion"},{"tag" : "Learning Disabilities"},{"tag" : "NayaNa"},{"tag" : "Orthographics"},{"tag" : "Palindromic"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "Functioning of wikipages.",
+		"pages" : [
+					{"page_title" : "INTRODUCTION TO 'WIKIPAGES' :","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: INTRODUCTION TO 'WIKIPAGES' :>>","associated_tags" : [{"tag" : "Functioning of wikipages."}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "GNOWSYS",
+		"pages" : [
+					{"page_title" : "lab.gnowledge.org12","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: lab.gnowledge.org12>>","associated_tags" : [{"tag" : "GNOWSYS"},{"tag" : "gnowledge org"},{"tag" : "lab"}]},
+					{"page_title" : "Installation of Gnowsys Studio","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Installation of Gnowsys Studio>>","associated_tags" : [{"tag" : "GNOWSYS"},{"tag" : "Gnowsys-Studio"},{"tag" : "Installation"},{"tag" : "documentation"},{"tag" : "help"},{"tag" : "software"}]},
+					{"page_title" : "gnowsys studio development","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: gnowsys studio development>>","associated_tags" : [{"tag" : "GNOWSYS"},{"tag" : "gnowledge lab"},{"tag" : "gnu"}]}
+				  ],
+		"weight" : "3"
+	},
+	{
+		"tag_name": "GNOWSYS mode",
+		"pages" : [
+					
+				  ],
+		"weight" : "0"
+	},
+	{
+		"tag_name": "Gnowsys-Studio",
+		"pages" : [
+					{"page_title" : "Installation of Gnowsys Studio","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Installation of Gnowsys Studio>>","associated_tags" : [{"tag" : "GNOWSYS"},{"tag" : "Gnowsys-Studio"},{"tag" : "Installation"},{"tag" : "documentation"},{"tag" : "help"},{"tag" : "software"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "Goa",
+		"pages" : [
+					{"page_title" : "Workshop in Goa India","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Workshop in Goa India>>","associated_tags" : [{"tag" : "Goa"},{"tag" : "India"},{"tag" : "Workshop"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "HBCSE",
+		"pages" : [
+					{"page_title" : "Inputability","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Inputability>>","associated_tags" : [{"tag" : "ADAPT"},{"tag" : "Accessibility"},{"tag" : "BAPSI"},{"tag" : "HBCSE"},{"tag" : "special needs"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "Hands-On",
+		"pages" : [
+					{"page_title" : "Hands-on workshop for IES school Dadar ","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Hands-on workshop for IES school Dadar >>","associated_tags" : [{"tag" : "Hands-On"},{"tag" : "IES School"},{"tag" : "Workshop"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "ICT Workshop",
+		"pages" : [
+					{"page_title" : "ICT Workshop for Maharastra Board ","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: ICT Workshop for Maharastra Board >>","associated_tags" : [{"tag" : "ICT Workshop"},{"tag" : "Maharashtra Board"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "IES School",
+		"pages" : [
+					{"page_title" : "Hands-on workshop for IES school Dadar ","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Hands-on workshop for IES school Dadar >>","associated_tags" : [{"tag" : "Hands-On"},{"tag" : "IES School"},{"tag" : "Workshop"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "INSTALLTION",
+		"pages" : [
+					{"page_title" : "SELF Platform","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: SELF Platform>>","associated_tags" : [{"tag" : "INSTALLTION"},{"tag" : "SELF Platform"},{"tag" : "gnowledge org"},{"tag" : "internalization"},{"tag" : "lab"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "Inclusion",
+		"pages" : [
+					{"page_title" : "The NayaNa Game","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: The NayaNa Game>>","associated_tags" : [{"tag" : "Dyscalculia"},{"tag" : "Dysgraphia"},{"tag" : "Dyslexia"},{"tag" : "Exclusion"},{"tag" : "Inclusion"},{"tag" : "Learning Disabilities"},{"tag" : "NayaNa"},{"tag" : "Orthographics"},{"tag" : "Palindromic"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "India",
+		"pages" : [
+					{"page_title" : "Workshop in Goa India","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Workshop in Goa India>>","associated_tags" : [{"tag" : "Goa"},{"tag" : "India"},{"tag" : "Workshop"}]},
+					{"page_title" : "spectrum politics","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: spectrum politics>>","associated_tags" : [{"tag" : "India"},{"tag" : "civil disobedience"},{"tag" : "license"},{"tag" : "satyagraha"},{"tag" : "spectrum"},{"tag" : "spectrum politics"}]}
+				  ],
+		"weight" : "2"
+	},
+	{
+		"tag_name": "Installation",
+		"pages" : [
+					{"page_title" : "Installation of Gnowsys Studio","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Installation of Gnowsys Studio>>","associated_tags" : [{"tag" : "GNOWSYS"},{"tag" : "Gnowsys-Studio"},{"tag" : "Installation"},{"tag" : "documentation"},{"tag" : "help"},{"tag" : "software"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "KKCE",
+		"pages" : [
+					{"page_title" : "Workshop in KKCE , Mumbai ","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Workshop in KKCE , Mumbai >>","associated_tags" : [{"tag" : "KKCE"},{"tag" : "Mumbai"},{"tag" : "Workshop"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "Lawrence Lessig",
+		"pages" : [
+					{"page_title" : "Free Software Free Society","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Free Software Free Society>>","associated_tags" : [{"tag" : "Lawrence Lessig"},{"tag" : "RMS"},{"tag" : "book"},{"tag" : "free book"},{"tag" : "free ftware"},{"tag" : "free society"},{"tag" : "richard stallman"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "Learning",
+		"pages" : [
+					{"page_title" : "Learning Studios","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Learning Studios>>","associated_tags" : [{"tag" : "Learning"},{"tag" : "Learning studios"},{"tag" : "Studios"},{"tag" : "constructionism"},{"tag" : "education"},{"tag" : "students"},{"tag" : "teachers"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "Learning Disabilities",
+		"pages" : [
+					{"page_title" : "The NayaNa Game","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: The NayaNa Game>>","associated_tags" : [{"tag" : "Dyscalculia"},{"tag" : "Dysgraphia"},{"tag" : "Dyslexia"},{"tag" : "Exclusion"},{"tag" : "Inclusion"},{"tag" : "Learning Disabilities"},{"tag" : "NayaNa"},{"tag" : "Orthographics"},{"tag" : "Palindromic"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "Learning studios",
+		"pages" : [
+					{"page_title" : "Emacs","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Emacs>>","associated_tags" : [{"tag" : "Learning studios"},{"tag" : "digital learning studios"},{"tag" : "emacs"}]},
+					{"page_title" : "LaTeX","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: LaTeX>>","associated_tags" : [{"tag" : "Learning studios"},{"tag" : "digital learning studios"},{"tag" : "latex"}]},
+					{"page_title" : "Digital Learning Studios DVD ","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Digital Learning Studios DVD >>","associated_tags" : [{"tag" : "Learning studios"},{"tag" : "digital learning studios"},{"tag" : "documentation"},{"tag" : "dvd"},{"tag" : "education"},{"tag" : "fedora"},{"tag" : "free software"},{"tag" : "gnoware"},{"tag" : "gnowledge lab"},{"tag" : "software"}]},
+					{"page_title" : "Learning-studios","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Learning-studios>>","associated_tags" : [{"tag" : "Learning studios"}]},
+					{"page_title" : "Learning Studios","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Learning Studios>>","associated_tags" : [{"tag" : "Learning"},{"tag" : "Learning studios"},{"tag" : "Studios"},{"tag" : "constructionism"},{"tag" : "education"},{"tag" : "students"},{"tag" : "teachers"}]}
+				  ],
+		"weight" : "5"
+	},
+	{
+		"tag_name": "MIT",
+		"pages" : [
+					{"page_title" : "Walter Bender at HBCSE","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Walter Bender at HBCSE>>","associated_tags" : [{"tag" : "Activity-based Learning"},{"tag" : "MIT"},{"tag" : "OLPC"},{"tag" : "Sugar"},{"tag" : "Turtle"},{"tag" : "Walter Bender"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "Maharashtra Board",
+		"pages" : [
+					{"page_title" : "ICT Workshop for Maharastra Board ","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: ICT Workshop for Maharastra Board >>","associated_tags" : [{"tag" : "ICT Workshop"},{"tag" : "Maharashtra Board"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "Main Page",
+		"pages" : [
+					{"page_title" : "wiki.metastudio.org","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: wiki.metastudio.org>>","associated_tags" : [{"tag" : "Main Page"},{"tag" : "metastudio"},{"tag" : "wiki.metastudio.org"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "Mumbai",
+		"pages" : [
+					{"page_title" : "Workshop in KKCE , Mumbai ","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Workshop in KKCE , Mumbai >>","associated_tags" : [{"tag" : "KKCE"},{"tag" : "Mumbai"},{"tag" : "Workshop"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "NayaNa",
+		"pages" : [
+					{"page_title" : "The NayaNa Game","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: The NayaNa Game>>","associated_tags" : [{"tag" : "Dyscalculia"},{"tag" : "Dysgraphia"},{"tag" : "Dyslexia"},{"tag" : "Exclusion"},{"tag" : "Inclusion"},{"tag" : "Learning Disabilities"},{"tag" : "NayaNa"},{"tag" : "Orthographics"},{"tag" : "Palindromic"}]},
+					{"page_title" : "NayaNa","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: NayaNa>>","associated_tags" : [{"tag" : "Dysgraphia"},{"tag" : "Dyslexia"},{"tag" : "NayaNa"},{"tag" : "Palindromic Font"},{"tag" : "Phonetic Script"},{"tag" : "nayana"}]}
+				  ],
+		"weight" : "2"
+	},
+	{
+		"tag_name": "OLPC",
+		"pages" : [
+					{"page_title" : "XO-serial-number-Glab ","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: XO-serial-number-Glab >>","associated_tags" : [{"tag" : "BED teacher"},{"tag" : "OLPC"},{"tag" : "XO"},{"tag" : "gijubhai badheka"},{"tag" : "glab"}]},
+					{"page_title" : "Walter Bender at HBCSE","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Walter Bender at HBCSE>>","associated_tags" : [{"tag" : "Activity-based Learning"},{"tag" : "MIT"},{"tag" : "OLPC"},{"tag" : "Sugar"},{"tag" : "Turtle"},{"tag" : "Walter Bender"}]}
+				  ],
+		"weight" : "2"
+	},
+	{
+		"tag_name": "Orthographics",
+		"pages" : [
+					{"page_title" : "The NayaNa Game","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: The NayaNa Game>>","associated_tags" : [{"tag" : "Dyscalculia"},{"tag" : "Dysgraphia"},{"tag" : "Dyslexia"},{"tag" : "Exclusion"},{"tag" : "Inclusion"},{"tag" : "Learning Disabilities"},{"tag" : "NayaNa"},{"tag" : "Orthographics"},{"tag" : "Palindromic"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "Palindromic",
+		"pages" : [
+					{"page_title" : "The NayaNa Game","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: The NayaNa Game>>","associated_tags" : [{"tag" : "Dyscalculia"},{"tag" : "Dysgraphia"},{"tag" : "Dyslexia"},{"tag" : "Exclusion"},{"tag" : "Inclusion"},{"tag" : "Learning Disabilities"},{"tag" : "NayaNa"},{"tag" : "Orthographics"},{"tag" : "Palindromic"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "Palindromic Font",
+		"pages" : [
+					{"page_title" : "NayaNa","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: NayaNa>>","associated_tags" : [{"tag" : "Dysgraphia"},{"tag" : "Dyslexia"},{"tag" : "NayaNa"},{"tag" : "Palindromic Font"},{"tag" : "Phonetic Script"},{"tag" : "nayana"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "Pascaline",
+		"pages" : [
+					{"page_title" : "Pascaline Calculator ","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Pascaline Calculator >>","associated_tags" : [{"tag" : "Arithmatique"},{"tag" : "Pascaline"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "Phonetic Script",
+		"pages" : [
+					{"page_title" : "NayaNa","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: NayaNa>>","associated_tags" : [{"tag" : "Dysgraphia"},{"tag" : "Dyslexia"},{"tag" : "NayaNa"},{"tag" : "Palindromic Font"},{"tag" : "Phonetic Script"},{"tag" : "nayana"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "Piaget",
+		"pages" : [
+					{"page_title" : "Constructionism ","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Constructionism >>","associated_tags" : [{"tag" : "Piaget"},{"tag" : "Seymour Papert"},{"tag" : "children"},{"tag" : "computers"},{"tag" : "constructionism"},{"tag" : "education"},{"tag" : "mathematics education"},{"tag" : "science education"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "Publications",
+		"pages" : [
+					{"page_title" : "lab.gnowledge.org-Publications","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: lab.gnowledge.org-Publications>>","associated_tags" : [{"tag" : "Publications"},{"tag" : "gnowledge.org"},{"tag" : "lab.gnowledge.org"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "RMS",
+		"pages" : [
+					{"page_title" : "Free Software Free Society","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Free Software Free Society>>","associated_tags" : [{"tag" : "Lawrence Lessig"},{"tag" : "RMS"},{"tag" : "book"},{"tag" : "free book"},{"tag" : "free ftware"},{"tag" : "free society"},{"tag" : "richard stallman"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "Relationtype",
+		"pages" : [
+					{"page_title" : " Adding Relationtype","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject:  Adding Relationtype>>","associated_tags" : [{"tag" : "Adding Relationtype"},{"tag" : "Relationtype"},{"tag" : "gnowledge org"},{"tag" : "lab"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "Research",
+		"pages" : [
+					{"page_title" : " lab.gnowledge.org-Research","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject:  lab.gnowledge.org-Research>>","associated_tags" : [{"tag" : "Dynamic"},{"tag" : "Research"},{"tag" : "gnowledge lab"},{"tag" : "knowledge"},{"tag" : "lab"},{"tag" : "network"},{"tag" : "structure"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "SELF Platform",
+		"pages" : [
+					{"page_title" : "SELF-platform Internationalization","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: SELF-platform Internationalization>>","associated_tags" : [{"tag" : "SELF Platform"},{"tag" : "gnowledge org"},{"tag" : "internalization"},{"tag" : "lab"}]},
+					{"page_title" : "SELF Platform","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: SELF Platform>>","associated_tags" : [{"tag" : "INSTALLTION"},{"tag" : "SELF Platform"},{"tag" : "gnowledge org"},{"tag" : "internalization"},{"tag" : "lab"}]}
+				  ],
+		"weight" : "2"
+	},
+	{
+		"tag_name": "Science & Ethics course",
+		"pages" : [
+					{"page_title" : "Twist: Introduction to the Science and Ethics Course    ","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Twist: Introduction to the Science and Ethics Course    >>","associated_tags" : [{"tag" : "Science & Ethics course"},{"tag" : "ethical criteria"},{"tag" : "last two centuries of science"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "Searching a node",
+		"pages" : [
+					{"page_title" : "Searching a node","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Searching a node>>","associated_tags" : [{"tag" : "Searching a node"},{"tag" : "gnowledge.org"},{"tag" : "lab.gnowledge.org"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "Seymour Papert",
+		"pages" : [
+					{"page_title" : "Constructionism ","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Constructionism >>","associated_tags" : [{"tag" : "Piaget"},{"tag" : "Seymour Papert"},{"tag" : "children"},{"tag" : "computers"},{"tag" : "constructionism"},{"tag" : "education"},{"tag" : "mathematics education"},{"tag" : "science education"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "Studios",
+		"pages" : [
+					{"page_title" : "Learning Studios","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Learning Studios>>","associated_tags" : [{"tag" : "Learning"},{"tag" : "Learning studios"},{"tag" : "Studios"},{"tag" : "constructionism"},{"tag" : "education"},{"tag" : "students"},{"tag" : "teachers"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "Sugar",
+		"pages" : [
+					{"page_title" : "Walter Bender at HBCSE","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Walter Bender at HBCSE>>","associated_tags" : [{"tag" : "Activity-based Learning"},{"tag" : "MIT"},{"tag" : "OLPC"},{"tag" : "Sugar"},{"tag" : "Turtle"},{"tag" : "Walter Bender"}]},
+					{"page_title" : "Dr Bender's message","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Dr Bender's message>>","associated_tags" : [{"tag" : "Sugar"},{"tag" : "gnowledge lab"}]}
+				  ],
+		"weight" : "2"
+	},
+	{
+		"tag_name": "Turtle",
+		"pages" : [
+					{"page_title" : "Walter Bender at HBCSE","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Walter Bender at HBCSE>>","associated_tags" : [{"tag" : "Activity-based Learning"},{"tag" : "MIT"},{"tag" : "OLPC"},{"tag" : "Sugar"},{"tag" : "Turtle"},{"tag" : "Walter Bender"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "Walter Bender",
+		"pages" : [
+					{"page_title" : "Walter Bender at HBCSE","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Walter Bender at HBCSE>>","associated_tags" : [{"tag" : "Activity-based Learning"},{"tag" : "MIT"},{"tag" : "OLPC"},{"tag" : "Sugar"},{"tag" : "Turtle"},{"tag" : "Walter Bender"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "Workshop",
+		"pages" : [
+					{"page_title" : "Workshop in KKCE , Mumbai ","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Workshop in KKCE , Mumbai >>","associated_tags" : [{"tag" : "KKCE"},{"tag" : "Mumbai"},{"tag" : "Workshop"}]},
+					{"page_title" : " Workshop for primary school teachers in RVEC , Bangalore ","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject:  Workshop for primary school teachers in RVEC , Bangalore >>","associated_tags" : [{"tag" : "Workshop"},{"tag" : "bangalore"},{"tag" : "primary scholl"},{"tag" : "teacher"}]},
+					{"page_title" : "Teachers Training Workshop at Khalapur, Raigad ","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Teachers Training Workshop at Khalapur, Raigad >>","associated_tags" : [{"tag" : "Workshop"},{"tag" : "khalapur"},{"tag" : "raigarh"},{"tag" : "teacher"},{"tag" : "training"}]},
+					{"page_title" : " Workshop for B.ED Teacher training for FOSS, CSSM,Chembur ","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject:  Workshop for B.ED Teacher training for FOSS, CSSM,Chembur >>","associated_tags" : [{"tag" : "BED teacher"},{"tag" : "CSSM"},{"tag" : "Chembur"},{"tag" : "Workshop"},{"tag" : "foss"},{"tag" : "training"}]},
+					{"page_title" : "Workshop in Goa India","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Workshop in Goa India>>","associated_tags" : [{"tag" : "Goa"},{"tag" : "India"},{"tag" : "Workshop"}]},
+					{"page_title" : "Hands-on workshop for IES school Dadar ","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Hands-on workshop for IES school Dadar >>","associated_tags" : [{"tag" : "Hands-On"},{"tag" : "IES School"},{"tag" : "Workshop"}]}
+				  ],
+		"weight" : "6"
+	},
+	{
+		"tag_name": "Workshop Amravati",
+		"pages" : [
+					{"page_title" : " FOSS for Education Workshop Amravati","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject:  FOSS for Education Workshop Amravati>>","associated_tags" : [{"tag" : "Education"},{"tag" : "Workshop Amravati"},{"tag" : "foss"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "XO",
+		"pages" : [
+					{"page_title" : "XO-serial-number-Glab ","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: XO-serial-number-Glab >>","associated_tags" : [{"tag" : "BED teacher"},{"tag" : "OLPC"},{"tag" : "XO"},{"tag" : "gijubhai badheka"},{"tag" : "glab"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "about",
+		"pages" : [
+					{"page_title" : "metaStudio.org: its design principles","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: metaStudio.org: its design principles>>","associated_tags" : [{"tag" : "about"},{"tag" : "design"},{"tag" : "metastudio"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "ammonia",
+		"pages" : [
+					{"page_title" : "geometric shapes of polyatomic molecules ","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: geometric shapes of polyatomic molecules >>","associated_tags" : [{"tag" : "ammonia"},{"tag" : "hybridization"},{"tag" : "methane"},{"tag" : "molecule"},{"tag" : "polyatomic"},{"tag" : "water"}]},
+					{"page_title" : "ammonia","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: ammonia>>","associated_tags" : [{"tag" : "ammonia"},{"tag" : "hydrogen"},{"tag" : "molecule"},{"tag" : "nitrogen"}]}
+				  ],
+		"weight" : "2"
+	},
+	{
+		"tag_name": "ants",
+		"pages" : [
+					{"page_title" : "Minas Tirith","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Minas Tirith>>","associated_tags" : [{"tag" : "ants"},{"tag" : "mud"},{"tag" : "structure"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "asc",
+		"pages" : [
+					
+				  ],
+		"weight" : "0"
+	},
+	{
+		"tag_name": "astronomy",
+		"pages" : [
+					{"page_title" : "Skywise","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Skywise>>","associated_tags" : [{"tag" : "astronomy"},{"tag" : "education"}]},
+					{"page_title" : "The Sun","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: The Sun>>","associated_tags" : [{"tag" : "astronomy"},{"tag" : "star"},{"tag" : "sun"}]},
+					{"page_title" : "Sky, Stars and Planets","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Sky, Stars and Planets>>","associated_tags" : [{"tag" : "astronomy"},{"tag" : "celestial"},{"tag" : "color"},{"tag" : "planets"},{"tag" : "sky"},{"tag" : "stars"},{"tag" : "sun"},{"tag" : "terrestrial"}]}
+				  ],
+		"weight" : "3"
+	},
+	{
+		"tag_name": "attributetypes",
+		"pages" : [
+					{"page_title" : "Adding Attributetypes","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Adding Attributetypes>>","associated_tags" : [{"tag" : "Adding Attributetypes"},{"tag" : "attributetypes"},{"tag" : "gnowledge org"},{"tag" : "lab"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "backward",
+		"pages" : [
+					{"page_title" : "the crow jumping backwards","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: the crow jumping backwards>>","associated_tags" : [{"tag" : "backward"},{"tag" : "behavior"},{"tag" : "bird"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "bahuguna",
+		"pages" : [
+					{"page_title" : "hacker","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: hacker>>","associated_tags" : [{"tag" : "bahuguna"},{"tag" : "copyleft"},{"tag" : "hacker"},{"tag" : "mahatma gandhi"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "bangalore",
+		"pages" : [
+					{"page_title" : " Workshop for primary school teachers in RVEC , Bangalore ","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject:  Workshop for primary school teachers in RVEC , Bangalore >>","associated_tags" : [{"tag" : "Workshop"},{"tag" : "bangalore"},{"tag" : "primary scholl"},{"tag" : "teacher"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "barcode",
+		"pages" : [
+					{"page_title" : "QRcode","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: QRcode>>","associated_tags" : [{"tag" : "2D"},{"tag" : "barcode"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "behavior",
+		"pages" : [
+					{"page_title" : "the crow jumping backwards","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: the crow jumping backwards>>","associated_tags" : [{"tag" : "backward"},{"tag" : "behavior"},{"tag" : "bird"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "behavior watch@home",
+		"pages" : [
+					{"page_title" : "crow coordination","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: crow coordination>>","associated_tags" : [{"tag" : "behavior watch@home"},{"tag" : "crow"},{"tag" : "crow watch"},{"tag" : "motor coordination"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "binary fission",
+		"pages" : [
+					{"page_title" : "binary fission of paramoecium","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: binary fission of paramoecium>>","associated_tags" : [{"tag" : "binary fission"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "biology",
+		"pages" : [
+					{"page_title" : "Mysterious Spiral","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Mysterious Spiral>>","associated_tags" : [{"tag" : "biology"},{"tag" : "natural formation"},{"tag" : "sea shell"},{"tag" : "spiral"},{"tag" : "structure"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "bird",
+		"pages" : [
+					{"page_title" : "closeup of a pegion head","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: closeup of a pegion head>>","associated_tags" : [{"tag" : "bird"},{"tag" : "closeup"},{"tag" : "pegion"}]},
+					{"page_title" : "the crow jumping backwards","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: the crow jumping backwards>>","associated_tags" : [{"tag" : "backward"},{"tag" : "behavior"},{"tag" : "bird"}]}
+				  ],
+		"weight" : "2"
+	},
+	{
+		"tag_name": "blue",
+		"pages" : [
+					{"page_title" : "Sea Waves","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Sea Waves>>","associated_tags" : [{"tag" : "blue"},{"tag" : "photos"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "blue sky",
+		"pages" : [
+					{"page_title" : "Twist: changing colors of the sky","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Twist: changing colors of the sky>>","associated_tags" : [{"tag" : "blue sky"},{"tag" : "color"},{"tag" : "sky"}]},
+					{"page_title" : "shaping the metastudio","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: shaping the metastudio>>","associated_tags" : [{"tag" : "Dyslexia"},{"tag" : "blue sky"}]}
+				  ],
+		"weight" : "2"
+	},
+	{
+		"tag_name": "book",
+		"pages" : [
+					{"page_title" : "Free Software Free Society","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Free Software Free Society>>","associated_tags" : [{"tag" : "Lawrence Lessig"},{"tag" : "RMS"},{"tag" : "book"},{"tag" : "free book"},{"tag" : "free ftware"},{"tag" : "free society"},{"tag" : "richard stallman"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "books",
+		"pages" : [
+					{"page_title" : "Front Page Detail of Robert Hooke's Micrographia","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Front Page Detail of Robert Hooke's Micrographia>>","associated_tags" : [{"tag" : "books"},{"tag" : "mircographia"},{"tag" : "robert hooke"}]},
+					{"page_title" : "Diwaswapna","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Diwaswapna>>","associated_tags" : [{"tag" : "books"},{"tag" : "classroom"},{"tag" : "education"},{"tag" : "india"},{"tag" : "students"},{"tag" : "teachers"}]}
+				  ],
+		"weight" : "2"
+	},
+	{
+		"tag_name": "butterfly",
+		"pages" : [
+					{"page_title" : "butterfly drinking water","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: butterfly drinking water>>","associated_tags" : [{"tag" : "butterfly"},{"tag" : "drinking"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "camoflouge",
+		"pages" : [
+					{"page_title" : "military moth_2","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: military moth_2>>","associated_tags" : [{"tag" : "camoflouge"},{"tag" : "insects"},{"tag" : "military"},{"tag" : "mimicry"},{"tag" : "moth"},{"tag" : "photograph"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "cbs",
+		"pages" : [
+					{"page_title" : "Science & Ethics","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Science & Ethics>>","associated_tags" : [{"tag" : "cbs"},{"tag" : "science and ethics"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "celestial",
+		"pages" : [
+					{"page_title" : "Sky, Stars and Planets","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Sky, Stars and Planets>>","associated_tags" : [{"tag" : "astronomy"},{"tag" : "celestial"},{"tag" : "color"},{"tag" : "planets"},{"tag" : "sky"},{"tag" : "stars"},{"tag" : "sun"},{"tag" : "terrestrial"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "children",
+		"pages" : [
+					{"page_title" : "Constructionism ","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Constructionism >>","associated_tags" : [{"tag" : "Piaget"},{"tag" : "Seymour Papert"},{"tag" : "children"},{"tag" : "computers"},{"tag" : "constructionism"},{"tag" : "education"},{"tag" : "mathematics education"},{"tag" : "science education"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "civil disobedience",
+		"pages" : [
+					{"page_title" : "spectrum politics","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: spectrum politics>>","associated_tags" : [{"tag" : "India"},{"tag" : "civil disobedience"},{"tag" : "license"},{"tag" : "satyagraha"},{"tag" : "spectrum"},{"tag" : "spectrum politics"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "classical physics",
+		"pages" : [
+					{"page_title" : "Step: a learning studio","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Step: a learning studio>>","associated_tags" : [{"tag" : "classical physics"},{"tag" : "learning studio"},{"tag" : "molecular dynamics"},{"tag" : "physics"},{"tag" : "simulatioin"},{"tag" : "step"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "classroom",
+		"pages" : [
+					{"page_title" : "Diwaswapna","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Diwaswapna>>","associated_tags" : [{"tag" : "books"},{"tag" : "classroom"},{"tag" : "education"},{"tag" : "india"},{"tag" : "students"},{"tag" : "teachers"}]},
+					{"page_title" : "classroom vs studio","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: classroom vs studio>>","associated_tags" : [{"tag" : "classroom"},{"tag" : "design"},{"tag" : "learning"},{"tag" : "learning enviornment"},{"tag" : "metastudio"},{"tag" : "studio"}]}
+				  ],
+		"weight" : "2"
+	},
+	{
+		"tag_name": "close encounters",
+		"pages" : [
+					{"page_title" : "Many Eyes","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Many Eyes>>","associated_tags" : [{"tag" : "close encounters"},{"tag" : "fly"},{"tag" : "insect"}]},
+					{"page_title" : "Eat Me","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Eat Me>>","associated_tags" : [{"tag" : "close encounters"}]},
+					{"page_title" : "Coconut3sb","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Coconut3sb>>","associated_tags" : [{"tag" : "close encounters"},{"tag" : "natural form"}]},
+					{"page_title" : "Coconut3sa","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Coconut3sa>>","associated_tags" : [{"tag" : "close encounters"},{"tag" : "natural form"}]}
+				  ],
+		"weight" : "4"
+	},
+	{
+		"tag_name": "closeup",
+		"pages" : [
+					{"page_title" : "closeup of a pegion head","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: closeup of a pegion head>>","associated_tags" : [{"tag" : "bird"},{"tag" : "closeup"},{"tag" : "pegion"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "collaboration",
+		"pages" : [
+					{"page_title" : "Bringing learning closer to life","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Bringing learning closer to life>>","associated_tags" : [{"tag" : "collaboration"},{"tag" : "design"},{"tag" : "education"},{"tag" : "learning"},{"tag" : "learning environment"},{"tag" : "life"},{"tag" : "living"},{"tag" : "metastudio"},{"tag" : "network"},{"tag" : "school"},{"tag" : "studio"},{"tag" : "village"}]},
+					{"page_title" : "publishing preserves history","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: publishing preserves history>>","associated_tags" : [{"tag" : "collaboration"},{"tag" : "conserving history"},{"tag" : "history"},{"tag" : "publication"},{"tag" : "sharing"}]}
+				  ],
+		"weight" : "2"
+	},
+	{
+		"tag_name": "color",
+		"pages" : [
+					{"page_title" : "Twist: changing colors of the sky","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Twist: changing colors of the sky>>","associated_tags" : [{"tag" : "blue sky"},{"tag" : "color"},{"tag" : "sky"}]},
+					{"page_title" : "Sky, Stars and Planets","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Sky, Stars and Planets>>","associated_tags" : [{"tag" : "astronomy"},{"tag" : "celestial"},{"tag" : "color"},{"tag" : "planets"},{"tag" : "sky"},{"tag" : "stars"},{"tag" : "sun"},{"tag" : "terrestrial"}]}
+				  ],
+		"weight" : "2"
+	},
+	{
+		"tag_name": "colours",
+		"pages" : [
+					{"page_title" : "Ignited sea","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Ignited sea>>","associated_tags" : [{"tag" : "colours"},{"tag" : "light"},{"tag" : "reflection"},{"tag" : "water"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "commons",
+		"pages" : [
+					{"page_title" : "Wireless Freedom","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Wireless Freedom>>","associated_tags" : [{"tag" : "Banganga"},{"tag" : "Duck"},{"tag" : "commons"},{"tag" : "freedom to share"},{"tag" : "noise pollution"},{"tag" : "regulation"},{"tag" : "spectrum"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "computer lab",
+		"pages" : [
+					
+				  ],
+		"weight" : "0"
+	},
+	{
+		"tag_name": "computers",
+		"pages" : [
+					{"page_title" : "Constructionism ","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Constructionism >>","associated_tags" : [{"tag" : "Piaget"},{"tag" : "Seymour Papert"},{"tag" : "children"},{"tag" : "computers"},{"tag" : "constructionism"},{"tag" : "education"},{"tag" : "mathematics education"},{"tag" : "science education"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "conservation",
+		"pages" : [
+					{"page_title" : "cultural law of conservation","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: cultural law of conservation>>","associated_tags" : [{"tag" : "conservation"},{"tag" : "cultural freedom"},{"tag" : "cultural law of conservation"},{"tag" : "freedom to share"},{"tag" : "law of conservation"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "conserving history",
+		"pages" : [
+					{"page_title" : "publishing preserves history","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: publishing preserves history>>","associated_tags" : [{"tag" : "collaboration"},{"tag" : "conserving history"},{"tag" : "history"},{"tag" : "publication"},{"tag" : "sharing"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "constructionism",
+		"pages" : [
+					{"page_title" : "Learning Studios","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Learning Studios>>","associated_tags" : [{"tag" : "Learning"},{"tag" : "Learning studios"},{"tag" : "Studios"},{"tag" : "constructionism"},{"tag" : "education"},{"tag" : "students"},{"tag" : "teachers"}]},
+					{"page_title" : "Constructionism ","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Constructionism >>","associated_tags" : [{"tag" : "Piaget"},{"tag" : "Seymour Papert"},{"tag" : "children"},{"tag" : "computers"},{"tag" : "constructionism"},{"tag" : "education"},{"tag" : "mathematics education"},{"tag" : "science education"}]}
+				  ],
+		"weight" : "2"
+	},
+	{
+		"tag_name": "consumer rights with your topic",
+		"pages" : [
+					{"page_title" : "varsha","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: varsha>>","associated_tags" : [{"tag" : "consumer rights with your topic"},{"tag" : "relate consumer exploitation"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "consumerism",
+		"pages" : [
+					{"page_title" : "The story of stuff project","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: The story of stuff project>>","associated_tags" : [{"tag" : "Anne Leonard"},{"tag" : "consumerism"},{"tag" : "story of stuff"},{"tag" : "stuff"},{"tag" : "sustainability"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "copyleft",
+		"pages" : [
+					{"page_title" : "hacker","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: hacker>>","associated_tags" : [{"tag" : "bahuguna"},{"tag" : "copyleft"},{"tag" : "hacker"},{"tag" : "mahatma gandhi"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "critique",
+		"pages" : [
+					{"page_title" : "Twist: school and factory","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Twist: school and factory>>","associated_tags" : [{"tag" : "critique"},{"tag" : "factory"},{"tag" : "school"}]},
+					{"page_title" : "Goals of education?","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Goals of education?>>","associated_tags" : [{"tag" : "critique"},{"tag" : "education"},{"tag" : "school"}]}
+				  ],
+		"weight" : "2"
+	},
+	{
+		"tag_name": "crow",
+		"pages" : [
+					{"page_title" : "crow coordination","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: crow coordination>>","associated_tags" : [{"tag" : "behavior watch@home"},{"tag" : "crow"},{"tag" : "crow watch"},{"tag" : "motor coordination"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "crow watch",
+		"pages" : [
+					{"page_title" : "crow coordination","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: crow coordination>>","associated_tags" : [{"tag" : "behavior watch@home"},{"tag" : "crow"},{"tag" : "crow watch"},{"tag" : "motor coordination"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "cryptic",
+		"pages" : [
+					{"page_title" : "NayaNa Learning Activity 3: Shapes and Sounds","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: NayaNa Learning Activity 3: Shapes and Sounds>>","associated_tags" : [{"tag" : "cryptic"},{"tag" : "game"},{"tag" : "learning"},{"tag" : "nayana"}]},
+					{"page_title" : "NayaNa Learning Activity 2: Make a Picture","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: NayaNa Learning Activity 2: Make a Picture>>","associated_tags" : [{"tag" : "cryptic"},{"tag" : "game"},{"tag" : "learning"},{"tag" : "nayana"}]},
+					{"page_title" : "NayaNa Learning Activity 1: The cryptic clue","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: NayaNa Learning Activity 1: The cryptic clue>>","associated_tags" : [{"tag" : "cryptic"},{"tag" : "game"},{"tag" : "learning"},{"tag" : "nayana"}]}
+				  ],
+		"weight" : "3"
+	},
+	{
+		"tag_name": "cultural freedom",
+		"pages" : [
+					{"page_title" : "cultural law of conservation","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: cultural law of conservation>>","associated_tags" : [{"tag" : "conservation"},{"tag" : "cultural freedom"},{"tag" : "cultural law of conservation"},{"tag" : "freedom to share"},{"tag" : "law of conservation"}]},
+					{"page_title" : "freedom to re-write","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: freedom to re-write>>","associated_tags" : [{"tag" : "cultural freedom"},{"tag" : "freedom to modify"},{"tag" : "software freedom"}]},
+					{"page_title" : "Cultural FREEDOM","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Cultural FREEDOM>>","associated_tags" : [{"tag" : "cultural freedom"},{"tag" : "four freedoms"},{"tag" : "software freedom"}]}
+				  ],
+		"weight" : "3"
+	},
+	{
+		"tag_name": "cultural law of conservation",
+		"pages" : [
+					{"page_title" : "cultural law of conservation","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: cultural law of conservation>>","associated_tags" : [{"tag" : "conservation"},{"tag" : "cultural freedom"},{"tag" : "cultural law of conservation"},{"tag" : "freedom to share"},{"tag" : "law of conservation"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "dependency networks",
+		"pages" : [
+					
+				  ],
+		"weight" : "0"
+	},
+	{
+		"tag_name": "design",
+		"pages" : [
+					{"page_title" : "classroom vs studio","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: classroom vs studio>>","associated_tags" : [{"tag" : "classroom"},{"tag" : "design"},{"tag" : "learning"},{"tag" : "learning enviornment"},{"tag" : "metastudio"},{"tag" : "studio"}]},
+					{"page_title" : "Bringing learning closer to life","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Bringing learning closer to life>>","associated_tags" : [{"tag" : "collaboration"},{"tag" : "design"},{"tag" : "education"},{"tag" : "learning"},{"tag" : "learning environment"},{"tag" : "life"},{"tag" : "living"},{"tag" : "metastudio"},{"tag" : "network"},{"tag" : "school"},{"tag" : "studio"},{"tag" : "village"}]},
+					{"page_title" : "metaStudio.org: its design principles","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: metaStudio.org: its design principles>>","associated_tags" : [{"tag" : "about"},{"tag" : "design"},{"tag" : "metastudio"}]}
+				  ],
+		"weight" : "3"
+	},
+	{
+		"tag_name": "differential growth",
+		"pages" : [
+					
+				  ],
+		"weight" : "0"
+	},
+	{
+		"tag_name": "digital learning studios",
+		"pages" : [
+					{"page_title" : "Emacs","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Emacs>>","associated_tags" : [{"tag" : "Learning studios"},{"tag" : "digital learning studios"},{"tag" : "emacs"}]},
+					{"page_title" : "LaTeX","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: LaTeX>>","associated_tags" : [{"tag" : "Learning studios"},{"tag" : "digital learning studios"},{"tag" : "latex"}]},
+					{"page_title" : "Digital Learning Studios DVD ","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Digital Learning Studios DVD >>","associated_tags" : [{"tag" : "Learning studios"},{"tag" : "digital learning studios"},{"tag" : "documentation"},{"tag" : "dvd"},{"tag" : "education"},{"tag" : "fedora"},{"tag" : "free software"},{"tag" : "gnoware"},{"tag" : "gnowledge lab"},{"tag" : "software"}]}
+				  ],
+		"weight" : "3"
+	},
+	{
+		"tag_name": "diwaswapna",
+		"pages" : [
+					{"page_title" : "Gijubhai Badheka","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Gijubhai Badheka>>","associated_tags" : [{"tag" : "diwaswapna"},{"tag" : "educationist"},{"tag" : "gijubhai badheka"},{"tag" : "short story writer"}]},
+					{"page_title" : "Diwaswapna","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Diwaswapna>>","associated_tags" : [{"tag" : "diwaswapna"},{"tag" : "education"},{"tag" : "gijubhai badheka"},{"tag" : "india"},{"tag" : "krishna kumar"},{"tag" : "primary"},{"tag" : "schools"},{"tag" : "teachers"}]}
+				  ],
+		"weight" : "2"
+	},
+	{
+		"tag_name": "documentation",
+		"pages" : [
+					{"page_title" : "Digital Learning Studios DVD ","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Digital Learning Studios DVD >>","associated_tags" : [{"tag" : "Learning studios"},{"tag" : "digital learning studios"},{"tag" : "documentation"},{"tag" : "dvd"},{"tag" : "education"},{"tag" : "fedora"},{"tag" : "free software"},{"tag" : "gnoware"},{"tag" : "gnowledge lab"},{"tag" : "software"}]},
+					{"page_title" : "Sample Maths Equations","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Sample Maths Equations>>","associated_tags" : [{"tag" : "documentation"},{"tag" : "equation"},{"tag" : "formula"},{"tag" : "latex"},{"tag" : "mathematics"},{"tag" : "orgmode"},{"tag" : "technical writing"}]},
+					{"page_title" : "Group No. 1","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Group No. 1>>","associated_tags" : [{"tag" : "documentation"},{"tag" : "see if you can add some links to make the teaching activity interesting."}]},
+					{"page_title" : "Use cases of the loom","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Use cases of the loom>>","associated_tags" : [{"tag" : "documentation"},{"tag" : "help"},{"tag" : "loom"},{"tag" : "metastudio"}]},
+					{"page_title" : "org.pdf","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: org.pdf>>","associated_tags" : [{"tag" : "documentation"},{"tag" : "editor"},{"tag" : "free book"},{"tag" : "orgmode"}]},
+					{"page_title" : "Orgmode Illustration 3","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Orgmode Illustration 3>>","associated_tags" : [{"tag" : "documentation"},{"tag" : "mathematics"},{"tag" : "metastudio"},{"tag" : "orgmode"},{"tag" : "technical writing"}]},
+					{"page_title" : "Orgmode Illustration 2","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Orgmode Illustration 2>>","associated_tags" : [{"tag" : "documentation"},{"tag" : "illustration"},{"tag" : "metastudio"},{"tag" : "orgmode"}]},
+					{"page_title" : "Orgmode Illustration 1","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Orgmode Illustration 1>>","associated_tags" : [{"tag" : "documentation"},{"tag" : "illustration"},{"tag" : "metastudio"},{"tag" : "orgmode"}]},
+					{"page_title" : "Installation of Gnowsys Studio","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Installation of Gnowsys Studio>>","associated_tags" : [{"tag" : "GNOWSYS"},{"tag" : "Gnowsys-Studio"},{"tag" : "Installation"},{"tag" : "documentation"},{"tag" : "help"},{"tag" : "software"}]}
+				  ],
+		"weight" : "9"
+	},
+	{
+		"tag_name": "drawing",
+		"pages" : [
+					{"page_title" : "Zamindar","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Zamindar>>","associated_tags" : [{"tag" : "drawing"}]},
+					{"page_title" : "Labourer","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Labourer>>","associated_tags" : [{"tag" : "drawing"}]},
+					{"page_title" : "Famine1","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Famine1>>","associated_tags" : [{"tag" : "drawing"}]}
+				  ],
+		"weight" : "3"
+	},
+	{
+		"tag_name": "drinking",
+		"pages" : [
+					{"page_title" : "butterfly drinking water","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: butterfly drinking water>>","associated_tags" : [{"tag" : "butterfly"},{"tag" : "drinking"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "dvd",
+		"pages" : [
+					{"page_title" : "Digital Learning Studios DVD ","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Digital Learning Studios DVD >>","associated_tags" : [{"tag" : "Learning studios"},{"tag" : "digital learning studios"},{"tag" : "documentation"},{"tag" : "dvd"},{"tag" : "education"},{"tag" : "fedora"},{"tag" : "free software"},{"tag" : "gnoware"},{"tag" : "gnowledge lab"},{"tag" : "software"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "eclipse",
+		"pages" : [
+					{"page_title" : "Eclipse Reflections","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Eclipse Reflections>>","associated_tags" : [{"tag" : "eclipse"},{"tag" : "reflection"}]},
+					{"page_title" : "Eclipsed","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Eclipsed>>","associated_tags" : [{"tag" : "eclipse"}]}
+				  ],
+		"weight" : "2"
+	},
+	{
+		"tag_name": "editor",
+		"pages" : [
+					{"page_title" : "org.pdf","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: org.pdf>>","associated_tags" : [{"tag" : "documentation"},{"tag" : "editor"},{"tag" : "free book"},{"tag" : "orgmode"}]},
+					{"page_title" : "Orgmode Editor","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Orgmode Editor>>","associated_tags" : [{"tag" : "editor"},{"tag" : "emacs"},{"tag" : "help"},{"tag" : "organic molecule"},{"tag" : "software"},{"tag" : "text editor"}]}
+				  ],
+		"weight" : "2"
+	},
+	{
+		"tag_name": "education",
+		"pages" : [
+					{"page_title" : "Digital Learning Studios DVD ","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Digital Learning Studios DVD >>","associated_tags" : [{"tag" : "Learning studios"},{"tag" : "digital learning studios"},{"tag" : "documentation"},{"tag" : "dvd"},{"tag" : "education"},{"tag" : "fedora"},{"tag" : "free software"},{"tag" : "gnoware"},{"tag" : "gnowledge lab"},{"tag" : "software"}]},
+					{"page_title" : "Learning Studios","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Learning Studios>>","associated_tags" : [{"tag" : "Learning"},{"tag" : "Learning studios"},{"tag" : "Studios"},{"tag" : "constructionism"},{"tag" : "education"},{"tag" : "students"},{"tag" : "teachers"}]},
+					{"page_title" : "Constructionism ","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Constructionism >>","associated_tags" : [{"tag" : "Piaget"},{"tag" : "Seymour Papert"},{"tag" : "children"},{"tag" : "computers"},{"tag" : "constructionism"},{"tag" : "education"},{"tag" : "mathematics education"},{"tag" : "science education"}]},
+					{"page_title" : "Skywise","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Skywise>>","associated_tags" : [{"tag" : "astronomy"},{"tag" : "education"}]},
+					{"page_title" : "Diwaswapna","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Diwaswapna>>","associated_tags" : [{"tag" : "books"},{"tag" : "classroom"},{"tag" : "education"},{"tag" : "india"},{"tag" : "students"},{"tag" : "teachers"}]},
+					{"page_title" : "Diwaswapna","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Diwaswapna>>","associated_tags" : [{"tag" : "diwaswapna"},{"tag" : "education"},{"tag" : "gijubhai badheka"},{"tag" : "india"},{"tag" : "krishna kumar"},{"tag" : "primary"},{"tag" : "schools"},{"tag" : "teachers"}]},
+					{"page_title" : "Bringing learning closer to life","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Bringing learning closer to life>>","associated_tags" : [{"tag" : "collaboration"},{"tag" : "design"},{"tag" : "education"},{"tag" : "learning"},{"tag" : "learning environment"},{"tag" : "life"},{"tag" : "living"},{"tag" : "metastudio"},{"tag" : "network"},{"tag" : "school"},{"tag" : "studio"},{"tag" : "village"}]},
+					{"page_title" : "Goals of education?","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Goals of education?>>","associated_tags" : [{"tag" : "critique"},{"tag" : "education"},{"tag" : "school"}]}
+				  ],
+		"weight" : "8"
+	},
+	{
+		"tag_name": "educationist",
+		"pages" : [
+					{"page_title" : "Gijubhai Badheka","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Gijubhai Badheka>>","associated_tags" : [{"tag" : "diwaswapna"},{"tag" : "educationist"},{"tag" : "gijubhai badheka"},{"tag" : "short story writer"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "emacs",
+		"pages" : [
+					{"page_title" : "Emacs","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Emacs>>","associated_tags" : [{"tag" : "Learning studios"},{"tag" : "digital learning studios"},{"tag" : "emacs"}]},
+					{"page_title" : "Orgmode Editor","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Orgmode Editor>>","associated_tags" : [{"tag" : "editor"},{"tag" : "emacs"},{"tag" : "help"},{"tag" : "organic molecule"},{"tag" : "software"},{"tag" : "text editor"}]}
+				  ],
+		"weight" : "2"
+	},
+	{
+		"tag_name": "energy",
+		"pages" : [
+					{"page_title" : "hybridization","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: hybridization>>","associated_tags" : [{"tag" : "energy"},{"tag" : "hybridization"},{"tag" : "orbitals"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "equation",
+		"pages" : [
+					{"page_title" : "Sample Maths Equations","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Sample Maths Equations>>","associated_tags" : [{"tag" : "documentation"},{"tag" : "equation"},{"tag" : "formula"},{"tag" : "latex"},{"tag" : "mathematics"},{"tag" : "orgmode"},{"tag" : "technical writing"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "ethical criteria",
+		"pages" : [
+					{"page_title" : "Twist: Introduction to the Science and Ethics Course    ","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Twist: Introduction to the Science and Ethics Course    >>","associated_tags" : [{"tag" : "Science & Ethics course"},{"tag" : "ethical criteria"},{"tag" : "last two centuries of science"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "factory",
+		"pages" : [
+					{"page_title" : "Twist: school and factory","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Twist: school and factory>>","associated_tags" : [{"tag" : "critique"},{"tag" : "factory"},{"tag" : "school"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "father of free software",
+		"pages" : [
+					{"page_title" : "AN INTERACTIVE SESSION WITH THE FATHER OF FREE SOFTWARE","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: AN INTERACTIVE SESSION WITH THE FATHER OF FREE SOFTWARE>>","associated_tags" : [{"tag" : "father of free software"},{"tag" : "interactive"},{"tag" : "session"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "featuresss",
+		"pages" : [
+					{"page_title" : "Feature wish list for metastudio","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Feature wish list for metastudio>>","associated_tags" : [{"tag" : "featuresss"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "fedora",
+		"pages" : [
+					{"page_title" : "Digital Learning Studios DVD ","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Digital Learning Studios DVD >>","associated_tags" : [{"tag" : "Learning studios"},{"tag" : "digital learning studios"},{"tag" : "documentation"},{"tag" : "dvd"},{"tag" : "education"},{"tag" : "fedora"},{"tag" : "free software"},{"tag" : "gnoware"},{"tag" : "gnowledge lab"},{"tag" : "software"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "fly",
+		"pages" : [
+					{"page_title" : "Many Eyes","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Many Eyes>>","associated_tags" : [{"tag" : "close encounters"},{"tag" : "fly"},{"tag" : "insect"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "formula",
+		"pages" : [
+					{"page_title" : "Sample Maths Equations","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Sample Maths Equations>>","associated_tags" : [{"tag" : "documentation"},{"tag" : "equation"},{"tag" : "formula"},{"tag" : "latex"},{"tag" : "mathematics"},{"tag" : "orgmode"},{"tag" : "technical writing"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "foss",
+		"pages" : [
+					{"page_title" : "FOSS for Education at Poornapragnya ","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: FOSS for Education at Poornapragnya >>","associated_tags" : [{"tag" : "Education"},{"tag" : "foss"},{"tag" : "poornpragnya"}]},
+					{"page_title" : " Workshop for B.ED Teacher training for FOSS, CSSM,Chembur ","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject:  Workshop for B.ED Teacher training for FOSS, CSSM,Chembur >>","associated_tags" : [{"tag" : "BED teacher"},{"tag" : "CSSM"},{"tag" : "Chembur"},{"tag" : "Workshop"},{"tag" : "foss"},{"tag" : "training"}]},
+					{"page_title" : " FOSS for Education Workshop Amravati","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject:  FOSS for Education Workshop Amravati>>","associated_tags" : [{"tag" : "Education"},{"tag" : "Workshop Amravati"},{"tag" : "foss"}]}
+				  ],
+		"weight" : "3"
+	},
+	{
+		"tag_name": "four freedoms",
+		"pages" : [
+					{"page_title" : "4 Freedoms","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: 4 Freedoms>>","associated_tags" : [{"tag" : "four freedoms"},{"tag" : "free software"}]},
+					{"page_title" : "Cultural FREEDOM","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Cultural FREEDOM>>","associated_tags" : [{"tag" : "cultural freedom"},{"tag" : "four freedoms"},{"tag" : "software freedom"}]}
+				  ],
+		"weight" : "2"
+	},
+	{
+		"tag_name": "free book",
+		"pages" : [
+					{"page_title" : "Free Software Free Society","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Free Software Free Society>>","associated_tags" : [{"tag" : "Lawrence Lessig"},{"tag" : "RMS"},{"tag" : "book"},{"tag" : "free book"},{"tag" : "free ftware"},{"tag" : "free society"},{"tag" : "richard stallman"}]},
+					{"page_title" : "org.pdf","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: org.pdf>>","associated_tags" : [{"tag" : "documentation"},{"tag" : "editor"},{"tag" : "free book"},{"tag" : "orgmode"}]}
+				  ],
+		"weight" : "2"
+	},
+	{
+		"tag_name": "free ftware",
+		"pages" : [
+					{"page_title" : "Free Software Free Society","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Free Software Free Society>>","associated_tags" : [{"tag" : "Lawrence Lessig"},{"tag" : "RMS"},{"tag" : "book"},{"tag" : "free book"},{"tag" : "free ftware"},{"tag" : "free society"},{"tag" : "richard stallman"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "free so",
+		"pages" : [
+					
+				  ],
+		"weight" : "0"
+	},
+	{
+		"tag_name": "free society",
+		"pages" : [
+					{"page_title" : "Free Software Free Society","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Free Software Free Society>>","associated_tags" : [{"tag" : "Lawrence Lessig"},{"tag" : "RMS"},{"tag" : "book"},{"tag" : "free book"},{"tag" : "free ftware"},{"tag" : "free society"},{"tag" : "richard stallman"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "free software",
+		"pages" : [
+					{"page_title" : "Digital Learning Studios DVD ","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Digital Learning Studios DVD >>","associated_tags" : [{"tag" : "Learning studios"},{"tag" : "digital learning studios"},{"tag" : "documentation"},{"tag" : "dvd"},{"tag" : "education"},{"tag" : "fedora"},{"tag" : "free software"},{"tag" : "gnoware"},{"tag" : "gnowledge lab"},{"tag" : "software"}]},
+					{"page_title" : "4 Freedoms","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: 4 Freedoms>>","associated_tags" : [{"tag" : "four freedoms"},{"tag" : "free software"}]},
+					{"page_title" : "GNU","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: GNU>>","associated_tags" : [{"tag" : "free software"},{"tag" : "gnu"},{"tag" : "operating system"},{"tag" : "richard stallman"},{"tag" : "software freedom"},{"tag" : "unix"}]},
+					{"page_title" : "Twist: What made you shift to use free software?","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Twist: What made you shift to use free software?>>","associated_tags" : [{"tag" : "free software"}]}
+				  ],
+		"weight" : "4"
+	},
+	{
+		"tag_name": "freedom to modify",
+		"pages" : [
+					{"page_title" : "freedom to re-write","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: freedom to re-write>>","associated_tags" : [{"tag" : "cultural freedom"},{"tag" : "freedom to modify"},{"tag" : "software freedom"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "freedom to read",
+		"pages" : [
+					{"page_title" : "freedom to read","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: freedom to read>>","associated_tags" : [{"tag" : "freedom to read"},{"tag" : "software freedom"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "freedom to share",
+		"pages" : [
+					{"page_title" : "Wireless Freedom","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Wireless Freedom>>","associated_tags" : [{"tag" : "Banganga"},{"tag" : "Duck"},{"tag" : "commons"},{"tag" : "freedom to share"},{"tag" : "noise pollution"},{"tag" : "regulation"},{"tag" : "spectrum"}]},
+					{"page_title" : "cultural law of conservation","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: cultural law of conservation>>","associated_tags" : [{"tag" : "conservation"},{"tag" : "cultural freedom"},{"tag" : "cultural law of conservation"},{"tag" : "freedom to share"},{"tag" : "law of conservation"}]},
+					{"page_title" : "freedom to share","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: freedom to share>>","associated_tags" : [{"tag" : "freedom to share"},{"tag" : "software freedom"}]}
+				  ],
+		"weight" : "3"
+	},
+	{
+		"tag_name": "freedom to write",
+		"pages" : [
+					{"page_title" : "freedom to write","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: freedom to write>>","associated_tags" : [{"tag" : "freedom to write"},{"tag" : "software freedom"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "fsf",
+		"pages" : [
+					{"page_title" : "Richard Stallman","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Richard Stallman>>","associated_tags" : [{"tag" : "fsf"},{"tag" : "gnu"},{"tag" : "hacker"},{"tag" : "richard stallman"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "ftware",
+		"pages" : [
+					
+				  ],
+		"weight" : "0"
+	},
+	{
+		"tag_name": "game",
+		"pages" : [
+					{"page_title" : "NayaNa Learning Activity 3: Shapes and Sounds","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: NayaNa Learning Activity 3: Shapes and Sounds>>","associated_tags" : [{"tag" : "cryptic"},{"tag" : "game"},{"tag" : "learning"},{"tag" : "nayana"}]},
+					{"page_title" : "NayaNa Learning Activity 2: Make a Picture","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: NayaNa Learning Activity 2: Make a Picture>>","associated_tags" : [{"tag" : "cryptic"},{"tag" : "game"},{"tag" : "learning"},{"tag" : "nayana"}]},
+					{"page_title" : "NayaNa Learning Activity 1: The cryptic clue","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: NayaNa Learning Activity 1: The cryptic clue>>","associated_tags" : [{"tag" : "cryptic"},{"tag" : "game"},{"tag" : "learning"},{"tag" : "nayana"}]}
+				  ],
+		"weight" : "3"
+	},
+	{
+		"tag_name": "germination",
+		"pages" : [
+					{"page_title" : "Who I am?","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Who I am?>>","associated_tags" : [{"tag" : "germination"},{"tag" : "seed"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "gijubhai badheka",
+		"pages" : [
+					{"page_title" : "XO-serial-number-Glab ","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: XO-serial-number-Glab >>","associated_tags" : [{"tag" : "BED teacher"},{"tag" : "OLPC"},{"tag" : "XO"},{"tag" : "gijubhai badheka"},{"tag" : "glab"}]},
+					{"page_title" : "Gijubhai Badheka","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Gijubhai Badheka>>","associated_tags" : [{"tag" : "diwaswapna"},{"tag" : "educationist"},{"tag" : "gijubhai badheka"},{"tag" : "short story writer"}]},
+					{"page_title" : "Diwaswapna","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Diwaswapna>>","associated_tags" : [{"tag" : "diwaswapna"},{"tag" : "education"},{"tag" : "gijubhai badheka"},{"tag" : "india"},{"tag" : "krishna kumar"},{"tag" : "primary"},{"tag" : "schools"},{"tag" : "teachers"}]}
+				  ],
+		"weight" : "3"
+	},
+	{
+		"tag_name": "glab",
+		"pages" : [
+					{"page_title" : "XO-serial-number-Glab ","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: XO-serial-number-Glab >>","associated_tags" : [{"tag" : "BED teacher"},{"tag" : "OLPC"},{"tag" : "XO"},{"tag" : "gijubhai badheka"},{"tag" : "glab"}]},
+					{"page_title" : "Gnowledge lab","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Gnowledge lab>>","associated_tags" : [{"tag" : "glab"}]}
+				  ],
+		"weight" : "2"
+	},
+	{
+		"tag_name": "gnoware",
+		"pages" : [
+					{"page_title" : "Digital Learning Studios DVD ","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Digital Learning Studios DVD >>","associated_tags" : [{"tag" : "Learning studios"},{"tag" : "digital learning studios"},{"tag" : "documentation"},{"tag" : "dvd"},{"tag" : "education"},{"tag" : "fedora"},{"tag" : "free software"},{"tag" : "gnoware"},{"tag" : "gnowledge lab"},{"tag" : "software"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "gnowledge",
+		"pages" : [
+					{"page_title" : "lab.gnowledge.org-Events ","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: lab.gnowledge.org-Events >>","associated_tags" : [{"tag" : "Event"},{"tag" : "gnowledge"},{"tag" : "lab"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "gnowledge lab",
+		"pages" : [
+					{"page_title" : " lab.gnowledge.org-Research","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject:  lab.gnowledge.org-Research>>","associated_tags" : [{"tag" : "Dynamic"},{"tag" : "Research"},{"tag" : "gnowledge lab"},{"tag" : "knowledge"},{"tag" : "lab"},{"tag" : "network"},{"tag" : "structure"}]},
+					{"page_title" : "Digital Learning Studios DVD ","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Digital Learning Studios DVD >>","associated_tags" : [{"tag" : "Learning studios"},{"tag" : "digital learning studios"},{"tag" : "documentation"},{"tag" : "dvd"},{"tag" : "education"},{"tag" : "fedora"},{"tag" : "free software"},{"tag" : "gnoware"},{"tag" : "gnowledge lab"},{"tag" : "software"}]},
+					{"page_title" : "Dr Bender's message","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Dr Bender's message>>","associated_tags" : [{"tag" : "Sugar"},{"tag" : "gnowledge lab"}]},
+					{"page_title" : "gnowsys studio development","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: gnowsys studio development>>","associated_tags" : [{"tag" : "GNOWSYS"},{"tag" : "gnowledge lab"},{"tag" : "gnu"}]}
+				  ],
+		"weight" : "4"
+	},
+	{
+		"tag_name": "gnowledge org",
+		"pages" : [
+					{"page_title" : " Adding Relationtype","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject:  Adding Relationtype>>","associated_tags" : [{"tag" : "Adding Relationtype"},{"tag" : "Relationtype"},{"tag" : "gnowledge org"},{"tag" : "lab"}]},
+					{"page_title" : "Adding Attributetypes","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Adding Attributetypes>>","associated_tags" : [{"tag" : "Adding Attributetypes"},{"tag" : "attributetypes"},{"tag" : "gnowledge org"},{"tag" : "lab"}]},
+					{"page_title" : "self.plot","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: self.plot>>","associated_tags" : [{"tag" : "gnowledge org"},{"tag" : "lab"},{"tag" : "self plot"}]},
+					{"page_title" : "SELF-platform Internationalization","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: SELF-platform Internationalization>>","associated_tags" : [{"tag" : "SELF Platform"},{"tag" : "gnowledge org"},{"tag" : "internalization"},{"tag" : "lab"}]},
+					{"page_title" : "SELF Platform","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: SELF Platform>>","associated_tags" : [{"tag" : "INSTALLTION"},{"tag" : "SELF Platform"},{"tag" : "gnowledge org"},{"tag" : "internalization"},{"tag" : "lab"}]},
+					{"page_title" : "lab.gnowledge.org-Network","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: lab.gnowledge.org-Network>>","associated_tags" : [{"tag" : "gnowledge org"},{"tag" : "lab"},{"tag" : "network"}]},
+					{"page_title" : "gnowsys installer","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: gnowsys installer>>","associated_tags" : [{"tag" : "gnowledge org"},{"tag" : "gnowsys installer"},{"tag" : "lab"}]},
+					{"page_title" : "lab.gnowledge.org-Team","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: lab.gnowledge.org-Team>>","associated_tags" : [{"tag" : "gnowledge org"},{"tag" : "lab"},{"tag" : "team"}]},
+					{"page_title" : "lab.gnowledge.org-Mailing List","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: lab.gnowledge.org-Mailing List>>","associated_tags" : [{"tag" : "gnowledge org"},{"tag" : "lab"},{"tag" : "resources"}]},
+					{"page_title" : "lab.gnowledge.org-software","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: lab.gnowledge.org-software>>","associated_tags" : [{"tag" : "gnowledge org"},{"tag" : "lab"},{"tag" : "software"}]},
+					{"page_title" : "lab.gnowledge.org12","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: lab.gnowledge.org12>>","associated_tags" : [{"tag" : "GNOWSYS"},{"tag" : "gnowledge org"},{"tag" : "lab"}]}
+				  ],
+		"weight" : "11"
+	},
+	{
+		"tag_name": "gnowledge.org",
+		"pages" : [
+					{"page_title" : "Searching a node","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Searching a node>>","associated_tags" : [{"tag" : "Searching a node"},{"tag" : "gnowledge.org"},{"tag" : "lab.gnowledge.org"}]},
+					{"page_title" : "lab.gnowledge.org-Publications","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: lab.gnowledge.org-Publications>>","associated_tags" : [{"tag" : "Publications"},{"tag" : "gnowledge.org"},{"tag" : "lab.gnowledge.org"}]}
+				  ],
+		"weight" : "2"
+	},
+	{
+		"tag_name": "gnowsys",
+		"pages" : [
+					
+				  ],
+		"weight" : "0"
+	},
+	{
+		"tag_name": "gnowsys installer",
+		"pages" : [
+					{"page_title" : "gnowsys installer","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: gnowsys installer>>","associated_tags" : [{"tag" : "gnowledge org"},{"tag" : "gnowsys installer"},{"tag" : "lab"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "gnu",
+		"pages" : [
+					{"page_title" : "Richard Stallman","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Richard Stallman>>","associated_tags" : [{"tag" : "fsf"},{"tag" : "gnu"},{"tag" : "hacker"},{"tag" : "richard stallman"}]},
+					{"page_title" : "GNU","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: GNU>>","associated_tags" : [{"tag" : "free software"},{"tag" : "gnu"},{"tag" : "operating system"},{"tag" : "richard stallman"},{"tag" : "software freedom"},{"tag" : "unix"}]},
+					{"page_title" : "gnowsys studio development","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: gnowsys studio development>>","associated_tags" : [{"tag" : "GNOWSYS"},{"tag" : "gnowledge lab"},{"tag" : "gnu"}]}
+				  ],
+		"weight" : "3"
+	},
+	{
+		"tag_name": "good effort!!!",
+		"pages" : [
+					{"page_title" : "human wants and its characteristics","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: human wants and its characteristics>>","associated_tags" : [{"tag" : "good effort!!!"},{"tag" : "good plan."}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "good plan.",
+		"pages" : [
+					{"page_title" : "human wants and its characteristics","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: human wants and its characteristics>>","associated_tags" : [{"tag" : "good effort!!!"},{"tag" : "good plan."}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "green",
+		"pages" : [
+					{"page_title" : "Green flowers","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Green flowers>>","associated_tags" : [{"tag" : "green"},{"tag" : "plants"},{"tag" : "structure"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "growth",
+		"pages" : [
+					
+				  ],
+		"weight" : "0"
+	},
+	{
+		"tag_name": "hacker",
+		"pages" : [
+					{"page_title" : "hacker","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: hacker>>","associated_tags" : [{"tag" : "bahuguna"},{"tag" : "copyleft"},{"tag" : "hacker"},{"tag" : "mahatma gandhi"}]},
+					{"page_title" : "Richard Stallman","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Richard Stallman>>","associated_tags" : [{"tag" : "fsf"},{"tag" : "gnu"},{"tag" : "hacker"},{"tag" : "richard stallman"}]}
+				  ],
+		"weight" : "2"
+	},
+	{
+		"tag_name": "help",
+		"pages" : [
+					{"page_title" : "Use cases of the loom","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Use cases of the loom>>","associated_tags" : [{"tag" : "documentation"},{"tag" : "help"},{"tag" : "loom"},{"tag" : "metastudio"}]},
+					{"page_title" : "Installation of Gnowsys Studio","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Installation of Gnowsys Studio>>","associated_tags" : [{"tag" : "GNOWSYS"},{"tag" : "Gnowsys-Studio"},{"tag" : "Installation"},{"tag" : "documentation"},{"tag" : "help"},{"tag" : "software"}]},
+					{"page_title" : "Orgmode Editor","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Orgmode Editor>>","associated_tags" : [{"tag" : "editor"},{"tag" : "emacs"},{"tag" : "help"},{"tag" : "organic molecule"},{"tag" : "software"},{"tag" : "text editor"}]}
+				  ],
+		"weight" : "3"
+	},
+	{
+		"tag_name": "history",
+		"pages" : [
+					{"page_title" : "publishing preserves history","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: publishing preserves history>>","associated_tags" : [{"tag" : "collaboration"},{"tag" : "conserving history"},{"tag" : "history"},{"tag" : "publication"},{"tag" : "sharing"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "how can i see annus lesson plan",
+		"pages" : [
+					{"page_title" : "lesson 1 group 4","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: lesson 1 group 4>>","associated_tags" : [{"tag" : "how can i see annus lesson plan"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "hybridization",
+		"pages" : [
+					{"page_title" : "geometric shapes of polyatomic molecules ","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: geometric shapes of polyatomic molecules >>","associated_tags" : [{"tag" : "ammonia"},{"tag" : "hybridization"},{"tag" : "methane"},{"tag" : "molecule"},{"tag" : "polyatomic"},{"tag" : "water"}]},
+					{"page_title" : "hybridization","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: hybridization>>","associated_tags" : [{"tag" : "energy"},{"tag" : "hybridization"},{"tag" : "orbitals"}]}
+				  ],
+		"weight" : "2"
+	},
+	{
+		"tag_name": "hydrocarbon",
+		"pages" : [
+					{"page_title" : "methane","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: methane>>","associated_tags" : [{"tag" : "hydrocarbon"},{"tag" : "methane"},{"tag" : "molecule"},{"tag" : "organic molecule"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "hydrogen",
+		"pages" : [
+					{"page_title" : "ammonia","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: ammonia>>","associated_tags" : [{"tag" : "ammonia"},{"tag" : "hydrogen"},{"tag" : "molecule"},{"tag" : "nitrogen"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "illustration",
+		"pages" : [
+					{"page_title" : "Orgmode Illustration 2","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Orgmode Illustration 2>>","associated_tags" : [{"tag" : "documentation"},{"tag" : "illustration"},{"tag" : "metastudio"},{"tag" : "orgmode"}]},
+					{"page_title" : "Orgmode Illustration 1","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Orgmode Illustration 1>>","associated_tags" : [{"tag" : "documentation"},{"tag" : "illustration"},{"tag" : "metastudio"},{"tag" : "orgmode"}]}
+				  ],
+		"weight" : "2"
+	},
+	{
+		"tag_name": "india",
+		"pages" : [
+					{"page_title" : "Diwaswapna","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Diwaswapna>>","associated_tags" : [{"tag" : "books"},{"tag" : "classroom"},{"tag" : "education"},{"tag" : "india"},{"tag" : "students"},{"tag" : "teachers"}]},
+					{"page_title" : "Diwaswapna","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Diwaswapna>>","associated_tags" : [{"tag" : "diwaswapna"},{"tag" : "education"},{"tag" : "gijubhai badheka"},{"tag" : "india"},{"tag" : "krishna kumar"},{"tag" : "primary"},{"tag" : "schools"},{"tag" : "teachers"}]}
+				  ],
+		"weight" : "2"
+	},
+	{
+		"tag_name": "insect",
+		"pages" : [
+					{"page_title" : "military moth","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: military moth>>","associated_tags" : [{"tag" : "insect"},{"tag" : "moth"}]},
+					{"page_title" : "Many Eyes","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Many Eyes>>","associated_tags" : [{"tag" : "close encounters"},{"tag" : "fly"},{"tag" : "insect"}]}
+				  ],
+		"weight" : "2"
+	},
+	{
+		"tag_name": "insects",
+		"pages" : [
+					{"page_title" : "military moth_2","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: military moth_2>>","associated_tags" : [{"tag" : "camoflouge"},{"tag" : "insects"},{"tag" : "military"},{"tag" : "mimicry"},{"tag" : "moth"},{"tag" : "photograph"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "interactive",
+		"pages" : [
+					{"page_title" : "AN INTERACTIVE SESSION WITH THE FATHER OF FREE SOFTWARE","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: AN INTERACTIVE SESSION WITH THE FATHER OF FREE SOFTWARE>>","associated_tags" : [{"tag" : "father of free software"},{"tag" : "interactive"},{"tag" : "session"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "internalization",
+		"pages" : [
+					{"page_title" : "SELF-platform Internationalization","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: SELF-platform Internationalization>>","associated_tags" : [{"tag" : "SELF Platform"},{"tag" : "gnowledge org"},{"tag" : "internalization"},{"tag" : "lab"}]},
+					{"page_title" : "SELF Platform","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: SELF Platform>>","associated_tags" : [{"tag" : "INSTALLTION"},{"tag" : "SELF Platform"},{"tag" : "gnowledge org"},{"tag" : "internalization"},{"tag" : "lab"}]}
+				  ],
+		"weight" : "2"
+	},
+	{
+		"tag_name": "khairat",
+		"pages" : [
+					{"page_title" : "Magic moment","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Magic moment>>","associated_tags" : [{"tag" : "khairat"},{"tag" : "sugar"},{"tag" : "wonder"}]},
+					{"page_title" : "Walter","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Walter>>","associated_tags" : [{"tag" : "khairat"},{"tag" : "olpc"},{"tag" : "walter"}]}
+				  ],
+		"weight" : "2"
+	},
+	{
+		"tag_name": "khalapur",
+		"pages" : [
+					{"page_title" : "Teachers Training Workshop at Khalapur, Raigad ","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Teachers Training Workshop at Khalapur, Raigad >>","associated_tags" : [{"tag" : "Workshop"},{"tag" : "khalapur"},{"tag" : "raigarh"},{"tag" : "teacher"},{"tag" : "training"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "knowledge",
+		"pages" : [
+					{"page_title" : " lab.gnowledge.org-Research","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject:  lab.gnowledge.org-Research>>","associated_tags" : [{"tag" : "Dynamic"},{"tag" : "Research"},{"tag" : "gnowledge lab"},{"tag" : "knowledge"},{"tag" : "lab"},{"tag" : "network"},{"tag" : "structure"}]},
+					{"page_title" : "Knowledge Networking Portal","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Knowledge Networking Portal>>","associated_tags" : [{"tag" : "knowledge"}]}
+				  ],
+		"weight" : "2"
+	},
+	{
+		"tag_name": "krishna kumar",
+		"pages" : [
+					{"page_title" : "Diwaswapna","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Diwaswapna>>","associated_tags" : [{"tag" : "diwaswapna"},{"tag" : "education"},{"tag" : "gijubhai badheka"},{"tag" : "india"},{"tag" : "krishna kumar"},{"tag" : "primary"},{"tag" : "schools"},{"tag" : "teachers"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "lab",
+		"pages" : [
+					{"page_title" : " Adding Relationtype","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject:  Adding Relationtype>>","associated_tags" : [{"tag" : "Adding Relationtype"},{"tag" : "Relationtype"},{"tag" : "gnowledge org"},{"tag" : "lab"}]},
+					{"page_title" : "lab.gnowledge.org-Events ","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: lab.gnowledge.org-Events >>","associated_tags" : [{"tag" : "Event"},{"tag" : "gnowledge"},{"tag" : "lab"}]},
+					{"page_title" : "Adding Attributetypes","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Adding Attributetypes>>","associated_tags" : [{"tag" : "Adding Attributetypes"},{"tag" : "attributetypes"},{"tag" : "gnowledge org"},{"tag" : "lab"}]},
+					{"page_title" : "self.plot","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: self.plot>>","associated_tags" : [{"tag" : "gnowledge org"},{"tag" : "lab"},{"tag" : "self plot"}]},
+					{"page_title" : "SELF-platform Internationalization","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: SELF-platform Internationalization>>","associated_tags" : [{"tag" : "SELF Platform"},{"tag" : "gnowledge org"},{"tag" : "internalization"},{"tag" : "lab"}]},
+					{"page_title" : "SELF Platform","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: SELF Platform>>","associated_tags" : [{"tag" : "INSTALLTION"},{"tag" : "SELF Platform"},{"tag" : "gnowledge org"},{"tag" : "internalization"},{"tag" : "lab"}]},
+					{"page_title" : "lab.gnowledge.org-Network","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: lab.gnowledge.org-Network>>","associated_tags" : [{"tag" : "gnowledge org"},{"tag" : "lab"},{"tag" : "network"}]},
+					{"page_title" : "gnowsys installer","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: gnowsys installer>>","associated_tags" : [{"tag" : "gnowledge org"},{"tag" : "gnowsys installer"},{"tag" : "lab"}]},
+					{"page_title" : "lab.gnowledge.org-Team","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: lab.gnowledge.org-Team>>","associated_tags" : [{"tag" : "gnowledge org"},{"tag" : "lab"},{"tag" : "team"}]},
+					{"page_title" : "lab.gnowledge.org-Mailing List","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: lab.gnowledge.org-Mailing List>>","associated_tags" : [{"tag" : "gnowledge org"},{"tag" : "lab"},{"tag" : "resources"}]},
+					{"page_title" : " lab.gnowledge.org-Research","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject:  lab.gnowledge.org-Research>>","associated_tags" : [{"tag" : "Dynamic"},{"tag" : "Research"},{"tag" : "gnowledge lab"},{"tag" : "knowledge"},{"tag" : "lab"},{"tag" : "network"},{"tag" : "structure"}]},
+					{"page_title" : "lab.gnowledge.org-software","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: lab.gnowledge.org-software>>","associated_tags" : [{"tag" : "gnowledge org"},{"tag" : "lab"},{"tag" : "software"}]},
+					{"page_title" : "lab.gnowledge.org12","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: lab.gnowledge.org12>>","associated_tags" : [{"tag" : "GNOWSYS"},{"tag" : "gnowledge org"},{"tag" : "lab"}]}
+				  ],
+		"weight" : "13"
+	},
+	{
+		"tag_name": "lab.gnowledge.org",
+		"pages" : [
+					{"page_title" : "Searching a node","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Searching a node>>","associated_tags" : [{"tag" : "Searching a node"},{"tag" : "gnowledge.org"},{"tag" : "lab.gnowledge.org"}]},
+					{"page_title" : "lab.gnowledge.org-Publications","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: lab.gnowledge.org-Publications>>","associated_tags" : [{"tag" : "Publications"},{"tag" : "gnowledge.org"},{"tag" : "lab.gnowledge.org"}]}
+				  ],
+		"weight" : "2"
+	},
+	{
+		"tag_name": "lab_gnowledge_org",
+		"pages" : [
+					
+				  ],
+		"weight" : "0"
+	},
+	{
+		"tag_name": "lab_gnowledge_org_software",
+		"pages" : [
+					
+				  ],
+		"weight" : "0"
+	},
+	{
+		"tag_name": "last two centuries of science",
+		"pages" : [
+					{"page_title" : "Twist: Introduction to the Science and Ethics Course    ","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Twist: Introduction to the Science and Ethics Course    >>","associated_tags" : [{"tag" : "Science & Ethics course"},{"tag" : "ethical criteria"},{"tag" : "last two centuries of science"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "latex",
+		"pages" : [
+					{"page_title" : "LaTeX","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: LaTeX>>","associated_tags" : [{"tag" : "Learning studios"},{"tag" : "digital learning studios"},{"tag" : "latex"}]},
+					{"page_title" : "Sample Maths Equations","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Sample Maths Equations>>","associated_tags" : [{"tag" : "documentation"},{"tag" : "equation"},{"tag" : "formula"},{"tag" : "latex"},{"tag" : "mathematics"},{"tag" : "orgmode"},{"tag" : "technical writing"}]}
+				  ],
+		"weight" : "2"
+	},
+	{
+		"tag_name": "law of conservation",
+		"pages" : [
+					{"page_title" : "cultural law of conservation","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: cultural law of conservation>>","associated_tags" : [{"tag" : "conservation"},{"tag" : "cultural freedom"},{"tag" : "cultural law of conservation"},{"tag" : "freedom to share"},{"tag" : "law of conservation"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "leaf",
+		"pages" : [
+					{"page_title" : "Red Networks","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Red Networks>>","associated_tags" : [{"tag" : "leaf"},{"tag" : "nature"}]},
+					{"page_title" : "Alien Life ","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Alien Life >>","associated_tags" : [{"tag" : "leaf"},{"tag" : "nature"}]},
+					{"page_title" : "Green netwroks","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Green netwroks>>","associated_tags" : [{"tag" : "leaf"},{"tag" : "leaves"},{"tag" : "nature"},{"tag" : "networks"},{"tag" : "plants"},{"tag" : "structure"}]}
+				  ],
+		"weight" : "3"
+	},
+	{
+		"tag_name": "learning",
+		"pages" : [
+					{"page_title" : "classroom vs studio","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: classroom vs studio>>","associated_tags" : [{"tag" : "classroom"},{"tag" : "design"},{"tag" : "learning"},{"tag" : "learning enviornment"},{"tag" : "metastudio"},{"tag" : "studio"}]},
+					{"page_title" : "Bringing learning closer to life","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Bringing learning closer to life>>","associated_tags" : [{"tag" : "collaboration"},{"tag" : "design"},{"tag" : "education"},{"tag" : "learning"},{"tag" : "learning environment"},{"tag" : "life"},{"tag" : "living"},{"tag" : "metastudio"},{"tag" : "network"},{"tag" : "school"},{"tag" : "studio"},{"tag" : "village"}]},
+					{"page_title" : "NayaNa Learning Activity 3: Shapes and Sounds","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: NayaNa Learning Activity 3: Shapes and Sounds>>","associated_tags" : [{"tag" : "cryptic"},{"tag" : "game"},{"tag" : "learning"},{"tag" : "nayana"}]},
+					{"page_title" : "NayaNa Learning Activity 2: Make a Picture","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: NayaNa Learning Activity 2: Make a Picture>>","associated_tags" : [{"tag" : "cryptic"},{"tag" : "game"},{"tag" : "learning"},{"tag" : "nayana"}]},
+					{"page_title" : "NayaNa Learning Activity 1: The cryptic clue","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: NayaNa Learning Activity 1: The cryptic clue>>","associated_tags" : [{"tag" : "cryptic"},{"tag" : "game"},{"tag" : "learning"},{"tag" : "nayana"}]}
+				  ],
+		"weight" : "5"
+	},
+	{
+		"tag_name": "learning enviornment",
+		"pages" : [
+					{"page_title" : "classroom vs studio","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: classroom vs studio>>","associated_tags" : [{"tag" : "classroom"},{"tag" : "design"},{"tag" : "learning"},{"tag" : "learning enviornment"},{"tag" : "metastudio"},{"tag" : "studio"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "learning environment",
+		"pages" : [
+					{"page_title" : "Bringing learning closer to life","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Bringing learning closer to life>>","associated_tags" : [{"tag" : "collaboration"},{"tag" : "design"},{"tag" : "education"},{"tag" : "learning"},{"tag" : "learning environment"},{"tag" : "life"},{"tag" : "living"},{"tag" : "metastudio"},{"tag" : "network"},{"tag" : "school"},{"tag" : "studio"},{"tag" : "village"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "learning studio",
+		"pages" : [
+					{"page_title" : "Step: a learning studio","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Step: a learning studio>>","associated_tags" : [{"tag" : "classical physics"},{"tag" : "learning studio"},{"tag" : "molecular dynamics"},{"tag" : "physics"},{"tag" : "simulatioin"},{"tag" : "step"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "leaves",
+		"pages" : [
+					{"page_title" : "Conical Towers","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Conical Towers>>","associated_tags" : [{"tag" : "leaves"},{"tag" : "plants"},{"tag" : "structure"}]},
+					{"page_title" : "Green netwroks","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Green netwroks>>","associated_tags" : [{"tag" : "leaf"},{"tag" : "leaves"},{"tag" : "nature"},{"tag" : "networks"},{"tag" : "plants"},{"tag" : "structure"}]}
+				  ],
+		"weight" : "2"
+	},
+	{
+		"tag_name": "license",
+		"pages" : [
+					{"page_title" : "spectrum politics","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: spectrum politics>>","associated_tags" : [{"tag" : "India"},{"tag" : "civil disobedience"},{"tag" : "license"},{"tag" : "satyagraha"},{"tag" : "spectrum"},{"tag" : "spectrum politics"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "life",
+		"pages" : [
+					{"page_title" : "Bringing learning closer to life","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Bringing learning closer to life>>","associated_tags" : [{"tag" : "collaboration"},{"tag" : "design"},{"tag" : "education"},{"tag" : "learning"},{"tag" : "learning environment"},{"tag" : "life"},{"tag" : "living"},{"tag" : "metastudio"},{"tag" : "network"},{"tag" : "school"},{"tag" : "studio"},{"tag" : "village"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "light",
+		"pages" : [
+					{"page_title" : "Ignited sea","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Ignited sea>>","associated_tags" : [{"tag" : "colours"},{"tag" : "light"},{"tag" : "reflection"},{"tag" : "water"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "living",
+		"pages" : [
+					{"page_title" : "Bringing learning closer to life","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Bringing learning closer to life>>","associated_tags" : [{"tag" : "collaboration"},{"tag" : "design"},{"tag" : "education"},{"tag" : "learning"},{"tag" : "learning environment"},{"tag" : "life"},{"tag" : "living"},{"tag" : "metastudio"},{"tag" : "network"},{"tag" : "school"},{"tag" : "studio"},{"tag" : "village"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "logo",
+		"pages" : [
+					
+				  ],
+		"weight" : "0"
+	},
+	{
+		"tag_name": "loom",
+		"pages" : [
+					{"page_title" : "Use cases of the loom","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Use cases of the loom>>","associated_tags" : [{"tag" : "documentation"},{"tag" : "help"},{"tag" : "loom"},{"tag" : "metastudio"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "mahatma gandhi",
+		"pages" : [
+					{"page_title" : "Music of the spinning wheel","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Music of the spinning wheel>>","associated_tags" : [{"tag" : "mahatma gandhi"},{"tag" : "spinning wheel"}]},
+					{"page_title" : "hacker","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: hacker>>","associated_tags" : [{"tag" : "bahuguna"},{"tag" : "copyleft"},{"tag" : "hacker"},{"tag" : "mahatma gandhi"}]}
+				  ],
+		"weight" : "2"
+	},
+	{
+		"tag_name": "mathematics",
+		"pages" : [
+					{"page_title" : "Number Line","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Number Line>>","associated_tags" : [{"tag" : "mathematics"}]},
+					{"page_title" : "Graphs","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Graphs>>","associated_tags" : [{"tag" : "mathematics"}]},
+					{"page_title" : "function","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: function>>","associated_tags" : [{"tag" : "mathematics"}]},
+					{"page_title" : "Sample Maths Equations","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Sample Maths Equations>>","associated_tags" : [{"tag" : "documentation"},{"tag" : "equation"},{"tag" : "formula"},{"tag" : "latex"},{"tag" : "mathematics"},{"tag" : "orgmode"},{"tag" : "technical writing"}]},
+					{"page_title" : "Orgmode Illustration 3","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Orgmode Illustration 3>>","associated_tags" : [{"tag" : "documentation"},{"tag" : "mathematics"},{"tag" : "metastudio"},{"tag" : "orgmode"},{"tag" : "technical writing"}]},
+					{"page_title" : "Introduction to Science and Mathematics Education Research","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Introduction to Science and Mathematics Education Research>>","associated_tags" : [{"tag" : "mathematics"},{"tag" : "mathematics education"},{"tag" : "review"},{"tag" : "science"},{"tag" : "science education"}]}
+				  ],
+		"weight" : "6"
+	},
+	{
+		"tag_name": "mathematics education",
+		"pages" : [
+					{"page_title" : "Constructionism ","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Constructionism >>","associated_tags" : [{"tag" : "Piaget"},{"tag" : "Seymour Papert"},{"tag" : "children"},{"tag" : "computers"},{"tag" : "constructionism"},{"tag" : "education"},{"tag" : "mathematics education"},{"tag" : "science education"}]},
+					{"page_title" : "Introduction to Science and Mathematics Education Research","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Introduction to Science and Mathematics Education Research>>","associated_tags" : [{"tag" : "mathematics"},{"tag" : "mathematics education"},{"tag" : "review"},{"tag" : "science"},{"tag" : "science education"}]}
+				  ],
+		"weight" : "2"
+	},
+	{
+		"tag_name": "meaning of human wants",
+		"pages" : [
+					{"page_title" : "sandbox thread1","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: sandbox thread1>>","associated_tags" : [{"tag" : "meaning of human wants"},{"tag" : "sandbox"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "metastudio",
+		"pages" : [
+					{"page_title" : "Metastudio","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Metastudio>>","associated_tags" : [{"tag" : "metastudio"},{"tag" : "wiki.metastudio.org"}]},
+					{"page_title" : "wiki.metastudio.org","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: wiki.metastudio.org>>","associated_tags" : [{"tag" : "Main Page"},{"tag" : "metastudio"},{"tag" : "wiki.metastudio.org"}]},
+					{"page_title" : "classroom vs studio","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: classroom vs studio>>","associated_tags" : [{"tag" : "classroom"},{"tag" : "design"},{"tag" : "learning"},{"tag" : "learning enviornment"},{"tag" : "metastudio"},{"tag" : "studio"}]},
+					{"page_title" : "Bringing learning closer to life","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Bringing learning closer to life>>","associated_tags" : [{"tag" : "collaboration"},{"tag" : "design"},{"tag" : "education"},{"tag" : "learning"},{"tag" : "learning environment"},{"tag" : "life"},{"tag" : "living"},{"tag" : "metastudio"},{"tag" : "network"},{"tag" : "school"},{"tag" : "studio"},{"tag" : "village"}]},
+					{"page_title" : "Use cases of the loom","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Use cases of the loom>>","associated_tags" : [{"tag" : "documentation"},{"tag" : "help"},{"tag" : "loom"},{"tag" : "metastudio"}]},
+					{"page_title" : "Orgmode Illustration 3","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Orgmode Illustration 3>>","associated_tags" : [{"tag" : "documentation"},{"tag" : "mathematics"},{"tag" : "metastudio"},{"tag" : "orgmode"},{"tag" : "technical writing"}]},
+					{"page_title" : "Orgmode Illustration 2","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Orgmode Illustration 2>>","associated_tags" : [{"tag" : "documentation"},{"tag" : "illustration"},{"tag" : "metastudio"},{"tag" : "orgmode"}]},
+					{"page_title" : "Orgmode Illustration 1","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Orgmode Illustration 1>>","associated_tags" : [{"tag" : "documentation"},{"tag" : "illustration"},{"tag" : "metastudio"},{"tag" : "orgmode"}]},
+					{"page_title" : "metaStudio.org: its design principles","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: metaStudio.org: its design principles>>","associated_tags" : [{"tag" : "about"},{"tag" : "design"},{"tag" : "metastudio"}]},
+					{"page_title" : "metaStudio","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: metaStudio>>","associated_tags" : [{"tag" : "metastudio"}]}
+				  ],
+		"weight" : "10"
+	},
+	{
+		"tag_name": "methane",
+		"pages" : [
+					{"page_title" : "geometric shapes of polyatomic molecules ","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: geometric shapes of polyatomic molecules >>","associated_tags" : [{"tag" : "ammonia"},{"tag" : "hybridization"},{"tag" : "methane"},{"tag" : "molecule"},{"tag" : "polyatomic"},{"tag" : "water"}]},
+					{"page_title" : "methane","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: methane>>","associated_tags" : [{"tag" : "hydrocarbon"},{"tag" : "methane"},{"tag" : "molecule"},{"tag" : "organic molecule"}]}
+				  ],
+		"weight" : "2"
+	},
+	{
+		"tag_name": "military",
+		"pages" : [
+					{"page_title" : "military moth_2","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: military moth_2>>","associated_tags" : [{"tag" : "camoflouge"},{"tag" : "insects"},{"tag" : "military"},{"tag" : "mimicry"},{"tag" : "moth"},{"tag" : "photograph"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "mimicry",
+		"pages" : [
+					{"page_title" : "military moth_2","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: military moth_2>>","associated_tags" : [{"tag" : "camoflouge"},{"tag" : "insects"},{"tag" : "military"},{"tag" : "mimicry"},{"tag" : "moth"},{"tag" : "photograph"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "mircographia",
+		"pages" : [
+					{"page_title" : "Front Page Detail of Robert Hooke's Micrographia","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Front Page Detail of Robert Hooke's Micrographia>>","associated_tags" : [{"tag" : "books"},{"tag" : "mircographia"},{"tag" : "robert hooke"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "molecular dynamics",
+		"pages" : [
+					{"page_title" : "Step: a learning studio","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Step: a learning studio>>","associated_tags" : [{"tag" : "classical physics"},{"tag" : "learning studio"},{"tag" : "molecular dynamics"},{"tag" : "physics"},{"tag" : "simulatioin"},{"tag" : "step"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "molecule",
+		"pages" : [
+					{"page_title" : "geometric shapes of polyatomic molecules ","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: geometric shapes of polyatomic molecules >>","associated_tags" : [{"tag" : "ammonia"},{"tag" : "hybridization"},{"tag" : "methane"},{"tag" : "molecule"},{"tag" : "polyatomic"},{"tag" : "water"}]},
+					{"page_title" : "ammonia","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: ammonia>>","associated_tags" : [{"tag" : "ammonia"},{"tag" : "hydrogen"},{"tag" : "molecule"},{"tag" : "nitrogen"}]},
+					{"page_title" : "water","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: water>>","associated_tags" : [{"tag" : "molecule"},{"tag" : "water"}]},
+					{"page_title" : "methane","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: methane>>","associated_tags" : [{"tag" : "hydrocarbon"},{"tag" : "methane"},{"tag" : "molecule"},{"tag" : "organic molecule"}]},
+					{"page_title" : "polyatomic molecules","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: polyatomic molecules>>","associated_tags" : [{"tag" : "molecule"},{"tag" : "polyatomic"}]}
+				  ],
+		"weight" : "5"
+	},
+	{
+		"tag_name": "moth",
+		"pages" : [
+					{"page_title" : "wing of a military moth","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: wing of a military moth>>","associated_tags" : [{"tag" : "moth"},{"tag" : "wing"}]},
+					{"page_title" : "military moth_2","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: military moth_2>>","associated_tags" : [{"tag" : "camoflouge"},{"tag" : "insects"},{"tag" : "military"},{"tag" : "mimicry"},{"tag" : "moth"},{"tag" : "photograph"}]},
+					{"page_title" : "military moth","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: military moth>>","associated_tags" : [{"tag" : "insect"},{"tag" : "moth"}]}
+				  ],
+		"weight" : "3"
+	},
+	{
+		"tag_name": "motor coordination",
+		"pages" : [
+					{"page_title" : "crow coordination","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: crow coordination>>","associated_tags" : [{"tag" : "behavior watch@home"},{"tag" : "crow"},{"tag" : "crow watch"},{"tag" : "motor coordination"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "mud",
+		"pages" : [
+					{"page_title" : "Minas Tirith","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Minas Tirith>>","associated_tags" : [{"tag" : "ants"},{"tag" : "mud"},{"tag" : "structure"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "natural form",
+		"pages" : [
+					{"page_title" : "Coconut3sb","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Coconut3sb>>","associated_tags" : [{"tag" : "close encounters"},{"tag" : "natural form"}]},
+					{"page_title" : "Coconut3sa","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Coconut3sa>>","associated_tags" : [{"tag" : "close encounters"},{"tag" : "natural form"}]}
+				  ],
+		"weight" : "2"
+	},
+	{
+		"tag_name": "natural formation",
+		"pages" : [
+					{"page_title" : "Mysterious Spiral","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Mysterious Spiral>>","associated_tags" : [{"tag" : "biology"},{"tag" : "natural formation"},{"tag" : "sea shell"},{"tag" : "spiral"},{"tag" : "structure"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "natural structure",
+		"pages" : [
+					
+				  ],
+		"weight" : "0"
+	},
+	{
+		"tag_name": "nature",
+		"pages" : [
+					{"page_title" : "Going to the Dreamworld","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Going to the Dreamworld>>","associated_tags" : [{"tag" : "nature"}]},
+					{"page_title" : "Red Networks","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Red Networks>>","associated_tags" : [{"tag" : "leaf"},{"tag" : "nature"}]},
+					{"page_title" : "Alien Life ","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Alien Life >>","associated_tags" : [{"tag" : "leaf"},{"tag" : "nature"}]},
+					{"page_title" : "Green netwroks","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Green netwroks>>","associated_tags" : [{"tag" : "leaf"},{"tag" : "leaves"},{"tag" : "nature"},{"tag" : "networks"},{"tag" : "plants"},{"tag" : "structure"}]}
+				  ],
+		"weight" : "4"
+	},
+	{
+		"tag_name": "nayana",
+		"pages" : [
+					{"page_title" : "NayaNa Learning Activity 3: Shapes and Sounds","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: NayaNa Learning Activity 3: Shapes and Sounds>>","associated_tags" : [{"tag" : "cryptic"},{"tag" : "game"},{"tag" : "learning"},{"tag" : "nayana"}]},
+					{"page_title" : "NayaNa Learning Activity 2: Make a Picture","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: NayaNa Learning Activity 2: Make a Picture>>","associated_tags" : [{"tag" : "cryptic"},{"tag" : "game"},{"tag" : "learning"},{"tag" : "nayana"}]},
+					{"page_title" : "NayaNa Learning Activity 1: The cryptic clue","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: NayaNa Learning Activity 1: The cryptic clue>>","associated_tags" : [{"tag" : "cryptic"},{"tag" : "game"},{"tag" : "learning"},{"tag" : "nayana"}]},
+					{"page_title" : "NayaNa","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: NayaNa>>","associated_tags" : [{"tag" : "Dysgraphia"},{"tag" : "Dyslexia"},{"tag" : "NayaNa"},{"tag" : "Palindromic Font"},{"tag" : "Phonetic Script"},{"tag" : "nayana"}]}
+				  ],
+		"weight" : "4"
+	},
+	{
+		"tag_name": "network",
+		"pages" : [
+					{"page_title" : "lab.gnowledge.org-Network","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: lab.gnowledge.org-Network>>","associated_tags" : [{"tag" : "gnowledge org"},{"tag" : "lab"},{"tag" : "network"}]},
+					{"page_title" : " lab.gnowledge.org-Research","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject:  lab.gnowledge.org-Research>>","associated_tags" : [{"tag" : "Dynamic"},{"tag" : "Research"},{"tag" : "gnowledge lab"},{"tag" : "knowledge"},{"tag" : "lab"},{"tag" : "network"},{"tag" : "structure"}]},
+					{"page_title" : "Bringing learning closer to life","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Bringing learning closer to life>>","associated_tags" : [{"tag" : "collaboration"},{"tag" : "design"},{"tag" : "education"},{"tag" : "learning"},{"tag" : "learning environment"},{"tag" : "life"},{"tag" : "living"},{"tag" : "metastudio"},{"tag" : "network"},{"tag" : "school"},{"tag" : "studio"},{"tag" : "village"}]}
+				  ],
+		"weight" : "3"
+	},
+	{
+		"tag_name": "networks",
+		"pages" : [
+					{"page_title" : "Green netwroks","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Green netwroks>>","associated_tags" : [{"tag" : "leaf"},{"tag" : "leaves"},{"tag" : "nature"},{"tag" : "networks"},{"tag" : "plants"},{"tag" : "structure"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "nitrogen",
+		"pages" : [
+					{"page_title" : "ammonia","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: ammonia>>","associated_tags" : [{"tag" : "ammonia"},{"tag" : "hydrogen"},{"tag" : "molecule"},{"tag" : "nitrogen"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "noise pollution",
+		"pages" : [
+					{"page_title" : "Wireless Freedom","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Wireless Freedom>>","associated_tags" : [{"tag" : "Banganga"},{"tag" : "Duck"},{"tag" : "commons"},{"tag" : "freedom to share"},{"tag" : "noise pollution"},{"tag" : "regulation"},{"tag" : "spectrum"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "numbers",
+		"pages" : [
+					
+				  ],
+		"weight" : "0"
+	},
+	{
+		"tag_name": "olpc",
+		"pages" : [
+					{"page_title" : "Walter","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Walter>>","associated_tags" : [{"tag" : "khairat"},{"tag" : "olpc"},{"tag" : "walter"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "operating system",
+		"pages" : [
+					{"page_title" : "GNU","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: GNU>>","associated_tags" : [{"tag" : "free software"},{"tag" : "gnu"},{"tag" : "operating system"},{"tag" : "richard stallman"},{"tag" : "software freedom"},{"tag" : "unix"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "orbitals",
+		"pages" : [
+					{"page_title" : "hybridization","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: hybridization>>","associated_tags" : [{"tag" : "energy"},{"tag" : "hybridization"},{"tag" : "orbitals"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "organic molecule",
+		"pages" : [
+					{"page_title" : "methane","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: methane>>","associated_tags" : [{"tag" : "hydrocarbon"},{"tag" : "methane"},{"tag" : "molecule"},{"tag" : "organic molecule"}]},
+					{"page_title" : "Orgmode Editor","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Orgmode Editor>>","associated_tags" : [{"tag" : "editor"},{"tag" : "emacs"},{"tag" : "help"},{"tag" : "organic molecule"},{"tag" : "software"},{"tag" : "text editor"}]}
+				  ],
+		"weight" : "2"
+	},
+	{
+		"tag_name": "orgmode",
+		"pages" : [
+					{"page_title" : "Sample Maths Equations","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Sample Maths Equations>>","associated_tags" : [{"tag" : "documentation"},{"tag" : "equation"},{"tag" : "formula"},{"tag" : "latex"},{"tag" : "mathematics"},{"tag" : "orgmode"},{"tag" : "technical writing"}]},
+					{"page_title" : "org.pdf","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: org.pdf>>","associated_tags" : [{"tag" : "documentation"},{"tag" : "editor"},{"tag" : "free book"},{"tag" : "orgmode"}]},
+					{"page_title" : "Orgmode Illustration 3","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Orgmode Illustration 3>>","associated_tags" : [{"tag" : "documentation"},{"tag" : "mathematics"},{"tag" : "metastudio"},{"tag" : "orgmode"},{"tag" : "technical writing"}]},
+					{"page_title" : "Orgmode Illustration 2","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Orgmode Illustration 2>>","associated_tags" : [{"tag" : "documentation"},{"tag" : "illustration"},{"tag" : "metastudio"},{"tag" : "orgmode"}]},
+					{"page_title" : "Orgmode Illustration 1","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Orgmode Illustration 1>>","associated_tags" : [{"tag" : "documentation"},{"tag" : "illustration"},{"tag" : "metastudio"},{"tag" : "orgmode"}]}
+				  ],
+		"weight" : "5"
+	},
+	{
+		"tag_name": "pegion",
+		"pages" : [
+					{"page_title" : "closeup of a pegion head","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: closeup of a pegion head>>","associated_tags" : [{"tag" : "bird"},{"tag" : "closeup"},{"tag" : "pegion"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "philosophy",
+		"pages" : [
+					{"page_title" : "Twist: skill set","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Twist: skill set>>","associated_tags" : [{"tag" : "philosophy"},{"tag" : "skill"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "photograph",
+		"pages" : [
+					{"page_title" : "military moth_2","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: military moth_2>>","associated_tags" : [{"tag" : "camoflouge"},{"tag" : "insects"},{"tag" : "military"},{"tag" : "mimicry"},{"tag" : "moth"},{"tag" : "photograph"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "photos",
+		"pages" : [
+					{"page_title" : "Marx and Engels","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Marx and Engels>>","associated_tags" : [{"tag" : "photos"}]},
+					{"page_title" : "Sea Waves","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Sea Waves>>","associated_tags" : [{"tag" : "blue"},{"tag" : "photos"}]}
+				  ],
+		"weight" : "2"
+	},
+	{
+		"tag_name": "physics",
+		"pages" : [
+					{"page_title" : "Step: a learning studio","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Step: a learning studio>>","associated_tags" : [{"tag" : "classical physics"},{"tag" : "learning studio"},{"tag" : "molecular dynamics"},{"tag" : "physics"},{"tag" : "simulatioin"},{"tag" : "step"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "planets",
+		"pages" : [
+					{"page_title" : "Sky, Stars and Planets","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Sky, Stars and Planets>>","associated_tags" : [{"tag" : "astronomy"},{"tag" : "celestial"},{"tag" : "color"},{"tag" : "planets"},{"tag" : "sky"},{"tag" : "stars"},{"tag" : "sun"},{"tag" : "terrestrial"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "plant",
+		"pages" : [
+					{"page_title" : "Organic Mesh","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Organic Mesh>>","associated_tags" : [{"tag" : "plant"},{"tag" : "structure"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "plants",
+		"pages" : [
+					{"page_title" : "Green flowers","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Green flowers>>","associated_tags" : [{"tag" : "green"},{"tag" : "plants"},{"tag" : "structure"}]},
+					{"page_title" : "Conical Towers","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Conical Towers>>","associated_tags" : [{"tag" : "leaves"},{"tag" : "plants"},{"tag" : "structure"}]},
+					{"page_title" : "Green netwroks","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Green netwroks>>","associated_tags" : [{"tag" : "leaf"},{"tag" : "leaves"},{"tag" : "nature"},{"tag" : "networks"},{"tag" : "plants"},{"tag" : "structure"}]}
+				  ],
+		"weight" : "3"
+	},
+	{
+		"tag_name": "polyatomic",
+		"pages" : [
+					{"page_title" : "geometric shapes of polyatomic molecules ","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: geometric shapes of polyatomic molecules >>","associated_tags" : [{"tag" : "ammonia"},{"tag" : "hybridization"},{"tag" : "methane"},{"tag" : "molecule"},{"tag" : "polyatomic"},{"tag" : "water"}]},
+					{"page_title" : "polyatomic molecules","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: polyatomic molecules>>","associated_tags" : [{"tag" : "molecule"},{"tag" : "polyatomic"}]}
+				  ],
+		"weight" : "2"
+	},
+	{
+		"tag_name": "poornpragnya",
+		"pages" : [
+					{"page_title" : "FOSS for Education at Poornapragnya ","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: FOSS for Education at Poornapragnya >>","associated_tags" : [{"tag" : "Education"},{"tag" : "foss"},{"tag" : "poornpragnya"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "primary",
+		"pages" : [
+					{"page_title" : "Diwaswapna","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Diwaswapna>>","associated_tags" : [{"tag" : "diwaswapna"},{"tag" : "education"},{"tag" : "gijubhai badheka"},{"tag" : "india"},{"tag" : "krishna kumar"},{"tag" : "primary"},{"tag" : "schools"},{"tag" : "teachers"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "primary scholl",
+		"pages" : [
+					{"page_title" : " Workshop for primary school teachers in RVEC , Bangalore ","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject:  Workshop for primary school teachers in RVEC , Bangalore >>","associated_tags" : [{"tag" : "Workshop"},{"tag" : "bangalore"},{"tag" : "primary scholl"},{"tag" : "teacher"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "publication",
+		"pages" : [
+					{"page_title" : "publishing preserves history","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: publishing preserves history>>","associated_tags" : [{"tag" : "collaboration"},{"tag" : "conserving history"},{"tag" : "history"},{"tag" : "publication"},{"tag" : "sharing"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "publications",
+		"pages" : [
+					
+				  ],
+		"weight" : "0"
+	},
+	{
+		"tag_name": "raigarh",
+		"pages" : [
+					{"page_title" : "Teachers Training Workshop at Khalapur, Raigad ","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Teachers Training Workshop at Khalapur, Raigad >>","associated_tags" : [{"tag" : "Workshop"},{"tag" : "khalapur"},{"tag" : "raigarh"},{"tag" : "teacher"},{"tag" : "training"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "reflection",
+		"pages" : [
+					{"page_title" : "Eclipse Reflections","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Eclipse Reflections>>","associated_tags" : [{"tag" : "eclipse"},{"tag" : "reflection"}]},
+					{"page_title" : "Ignited sea","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Ignited sea>>","associated_tags" : [{"tag" : "colours"},{"tag" : "light"},{"tag" : "reflection"},{"tag" : "water"}]}
+				  ],
+		"weight" : "2"
+	},
+	{
+		"tag_name": "regulation",
+		"pages" : [
+					{"page_title" : "Wireless Freedom","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Wireless Freedom>>","associated_tags" : [{"tag" : "Banganga"},{"tag" : "Duck"},{"tag" : "commons"},{"tag" : "freedom to share"},{"tag" : "noise pollution"},{"tag" : "regulation"},{"tag" : "spectrum"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "relate consumer exploitation",
+		"pages" : [
+					{"page_title" : "varsha","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: varsha>>","associated_tags" : [{"tag" : "consumer rights with your topic"},{"tag" : "relate consumer exploitation"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "resources",
+		"pages" : [
+					{"page_title" : "lab.gnowledge.org-Mailing List","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: lab.gnowledge.org-Mailing List>>","associated_tags" : [{"tag" : "gnowledge org"},{"tag" : "lab"},{"tag" : "resources"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "review",
+		"pages" : [
+					{"page_title" : "Introduction to Science and Mathematics Education Research","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Introduction to Science and Mathematics Education Research>>","associated_tags" : [{"tag" : "mathematics"},{"tag" : "mathematics education"},{"tag" : "review"},{"tag" : "science"},{"tag" : "science education"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "richard stallman",
+		"pages" : [
+					{"page_title" : "Free Software Free Society","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Free Software Free Society>>","associated_tags" : [{"tag" : "Lawrence Lessig"},{"tag" : "RMS"},{"tag" : "book"},{"tag" : "free book"},{"tag" : "free ftware"},{"tag" : "free society"},{"tag" : "richard stallman"}]},
+					{"page_title" : "Richard Stallman","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Richard Stallman>>","associated_tags" : [{"tag" : "fsf"},{"tag" : "gnu"},{"tag" : "hacker"},{"tag" : "richard stallman"}]},
+					{"page_title" : "GNU","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: GNU>>","associated_tags" : [{"tag" : "free software"},{"tag" : "gnu"},{"tag" : "operating system"},{"tag" : "richard stallman"},{"tag" : "software freedom"},{"tag" : "unix"}]}
+				  ],
+		"weight" : "3"
+	},
+	{
+		"tag_name": "robert hooke",
+		"pages" : [
+					{"page_title" : "Front Page Detail of Robert Hooke's Micrographia","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Front Page Detail of Robert Hooke's Micrographia>>","associated_tags" : [{"tag" : "books"},{"tag" : "mircographia"},{"tag" : "robert hooke"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "rope",
+		"pages" : [
+					{"page_title" : "Spirals","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Spirals>>","associated_tags" : [{"tag" : "rope"},{"tag" : "spiral"},{"tag" : "structure"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "sandbox",
+		"pages" : [
+					{"page_title" : "sandbox thread1","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: sandbox thread1>>","associated_tags" : [{"tag" : "meaning of human wants"},{"tag" : "sandbox"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "satyagraha",
+		"pages" : [
+					{"page_title" : "spectrum politics","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: spectrum politics>>","associated_tags" : [{"tag" : "India"},{"tag" : "civil disobedience"},{"tag" : "license"},{"tag" : "satyagraha"},{"tag" : "spectrum"},{"tag" : "spectrum politics"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "scenery",
+		"pages" : [
+					{"page_title" : "Golden Waters","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Golden Waters>>","associated_tags" : [{"tag" : "scenery"},{"tag" : "water"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "school",
+		"pages" : [
+					{"page_title" : "Bringing learning closer to life","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Bringing learning closer to life>>","associated_tags" : [{"tag" : "collaboration"},{"tag" : "design"},{"tag" : "education"},{"tag" : "learning"},{"tag" : "learning environment"},{"tag" : "life"},{"tag" : "living"},{"tag" : "metastudio"},{"tag" : "network"},{"tag" : "school"},{"tag" : "studio"},{"tag" : "village"}]},
+					{"page_title" : "Twist: school and factory","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Twist: school and factory>>","associated_tags" : [{"tag" : "critique"},{"tag" : "factory"},{"tag" : "school"}]},
+					{"page_title" : "Goals of education?","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Goals of education?>>","associated_tags" : [{"tag" : "critique"},{"tag" : "education"},{"tag" : "school"}]}
+				  ],
+		"weight" : "3"
+	},
+	{
+		"tag_name": "schools",
+		"pages" : [
+					{"page_title" : "Diwaswapna","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Diwaswapna>>","associated_tags" : [{"tag" : "diwaswapna"},{"tag" : "education"},{"tag" : "gijubhai badheka"},{"tag" : "india"},{"tag" : "krishna kumar"},{"tag" : "primary"},{"tag" : "schools"},{"tag" : "teachers"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "science",
+		"pages" : [
+					{"page_title" : "Introduction to Science and Mathematics Education Research","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Introduction to Science and Mathematics Education Research>>","associated_tags" : [{"tag" : "mathematics"},{"tag" : "mathematics education"},{"tag" : "review"},{"tag" : "science"},{"tag" : "science education"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "science and ethics",
+		"pages" : [
+					{"page_title" : "Science & Ethics","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Science & Ethics>>","associated_tags" : [{"tag" : "cbs"},{"tag" : "science and ethics"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "science education",
+		"pages" : [
+					{"page_title" : "Constructionism ","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Constructionism >>","associated_tags" : [{"tag" : "Piaget"},{"tag" : "Seymour Papert"},{"tag" : "children"},{"tag" : "computers"},{"tag" : "constructionism"},{"tag" : "education"},{"tag" : "mathematics education"},{"tag" : "science education"}]},
+					{"page_title" : "Introduction to Science and Mathematics Education Research","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Introduction to Science and Mathematics Education Research>>","associated_tags" : [{"tag" : "mathematics"},{"tag" : "mathematics education"},{"tag" : "review"},{"tag" : "science"},{"tag" : "science education"}]}
+				  ],
+		"weight" : "2"
+	},
+	{
+		"tag_name": "sea shell",
+		"pages" : [
+					{"page_title" : "Mysterious Spiral","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Mysterious Spiral>>","associated_tags" : [{"tag" : "biology"},{"tag" : "natural formation"},{"tag" : "sea shell"},{"tag" : "spiral"},{"tag" : "structure"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "see if you can add some links to make the teaching activity interesting.",
+		"pages" : [
+					{"page_title" : "Group No. 1","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Group No. 1>>","associated_tags" : [{"tag" : "documentation"},{"tag" : "see if you can add some links to make the teaching activity interesting."}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "seed",
+		"pages" : [
+					{"page_title" : "Who I am?","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Who I am?>>","associated_tags" : [{"tag" : "germination"},{"tag" : "seed"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "self plot",
+		"pages" : [
+					{"page_title" : "self.plot","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: self.plot>>","associated_tags" : [{"tag" : "gnowledge org"},{"tag" : "lab"},{"tag" : "self plot"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "session",
+		"pages" : [
+					{"page_title" : "AN INTERACTIVE SESSION WITH THE FATHER OF FREE SOFTWARE","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: AN INTERACTIVE SESSION WITH THE FATHER OF FREE SOFTWARE>>","associated_tags" : [{"tag" : "father of free software"},{"tag" : "interactive"},{"tag" : "session"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "sharing",
+		"pages" : [
+					{"page_title" : "publishing preserves history","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: publishing preserves history>>","associated_tags" : [{"tag" : "collaboration"},{"tag" : "conserving history"},{"tag" : "history"},{"tag" : "publication"},{"tag" : "sharing"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "short story writer",
+		"pages" : [
+					{"page_title" : "Gijubhai Badheka","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Gijubhai Badheka>>","associated_tags" : [{"tag" : "diwaswapna"},{"tag" : "educationist"},{"tag" : "gijubhai badheka"},{"tag" : "short story writer"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "simulatioin",
+		"pages" : [
+					{"page_title" : "Step: a learning studio","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Step: a learning studio>>","associated_tags" : [{"tag" : "classical physics"},{"tag" : "learning studio"},{"tag" : "molecular dynamics"},{"tag" : "physics"},{"tag" : "simulatioin"},{"tag" : "step"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "skill",
+		"pages" : [
+					{"page_title" : "Twist: skill set","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Twist: skill set>>","associated_tags" : [{"tag" : "philosophy"},{"tag" : "skill"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "sky",
+		"pages" : [
+					{"page_title" : "Twist: changing colors of the sky","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Twist: changing colors of the sky>>","associated_tags" : [{"tag" : "blue sky"},{"tag" : "color"},{"tag" : "sky"}]},
+					{"page_title" : "Sky, Stars and Planets","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Sky, Stars and Planets>>","associated_tags" : [{"tag" : "astronomy"},{"tag" : "celestial"},{"tag" : "color"},{"tag" : "planets"},{"tag" : "sky"},{"tag" : "stars"},{"tag" : "sun"},{"tag" : "terrestrial"}]}
+				  ],
+		"weight" : "2"
+	},
+	{
+		"tag_name": "so",
+		"pages" : [
+					
+				  ],
+		"weight" : "0"
+	},
+	{
+		"tag_name": "software",
+		"pages" : [
+					{"page_title" : "lab.gnowledge.org-software","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: lab.gnowledge.org-software>>","associated_tags" : [{"tag" : "gnowledge org"},{"tag" : "lab"},{"tag" : "software"}]},
+					{"page_title" : "Digital Learning Studios DVD ","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Digital Learning Studios DVD >>","associated_tags" : [{"tag" : "Learning studios"},{"tag" : "digital learning studios"},{"tag" : "documentation"},{"tag" : "dvd"},{"tag" : "education"},{"tag" : "fedora"},{"tag" : "free software"},{"tag" : "gnoware"},{"tag" : "gnowledge lab"},{"tag" : "software"}]},
+					{"page_title" : "Installation of Gnowsys Studio","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Installation of Gnowsys Studio>>","associated_tags" : [{"tag" : "GNOWSYS"},{"tag" : "Gnowsys-Studio"},{"tag" : "Installation"},{"tag" : "documentation"},{"tag" : "help"},{"tag" : "software"}]},
+					{"page_title" : "Orgmode Editor","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Orgmode Editor>>","associated_tags" : [{"tag" : "editor"},{"tag" : "emacs"},{"tag" : "help"},{"tag" : "organic molecule"},{"tag" : "software"},{"tag" : "text editor"}]}
+				  ],
+		"weight" : "4"
+	},
+	{
+		"tag_name": "software freedom",
+		"pages" : [
+					{"page_title" : "GNU","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: GNU>>","associated_tags" : [{"tag" : "free software"},{"tag" : "gnu"},{"tag" : "operating system"},{"tag" : "richard stallman"},{"tag" : "software freedom"},{"tag" : "unix"}]},
+					{"page_title" : "freedom to share","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: freedom to share>>","associated_tags" : [{"tag" : "freedom to share"},{"tag" : "software freedom"}]},
+					{"page_title" : "freedom to re-write","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: freedom to re-write>>","associated_tags" : [{"tag" : "cultural freedom"},{"tag" : "freedom to modify"},{"tag" : "software freedom"}]},
+					{"page_title" : "Cultural FREEDOM","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Cultural FREEDOM>>","associated_tags" : [{"tag" : "cultural freedom"},{"tag" : "four freedoms"},{"tag" : "software freedom"}]},
+					{"page_title" : "freedom to write","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: freedom to write>>","associated_tags" : [{"tag" : "freedom to write"},{"tag" : "software freedom"}]},
+					{"page_title" : "freedom to read","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: freedom to read>>","associated_tags" : [{"tag" : "freedom to read"},{"tag" : "software freedom"}]}
+				  ],
+		"weight" : "6"
+	},
+	{
+		"tag_name": "special needs",
+		"pages" : [
+					{"page_title" : "Inputability","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Inputability>>","associated_tags" : [{"tag" : "ADAPT"},{"tag" : "Accessibility"},{"tag" : "BAPSI"},{"tag" : "HBCSE"},{"tag" : "special needs"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "spectrum",
+		"pages" : [
+					{"page_title" : "Wireless Freedom","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Wireless Freedom>>","associated_tags" : [{"tag" : "Banganga"},{"tag" : "Duck"},{"tag" : "commons"},{"tag" : "freedom to share"},{"tag" : "noise pollution"},{"tag" : "regulation"},{"tag" : "spectrum"}]},
+					{"page_title" : "spectrum politics","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: spectrum politics>>","associated_tags" : [{"tag" : "India"},{"tag" : "civil disobedience"},{"tag" : "license"},{"tag" : "satyagraha"},{"tag" : "spectrum"},{"tag" : "spectrum politics"}]}
+				  ],
+		"weight" : "2"
+	},
+	{
+		"tag_name": "spectrum politics",
+		"pages" : [
+					{"page_title" : "spectrum politics","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: spectrum politics>>","associated_tags" : [{"tag" : "India"},{"tag" : "civil disobedience"},{"tag" : "license"},{"tag" : "satyagraha"},{"tag" : "spectrum"},{"tag" : "spectrum politics"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "spinning wheel",
+		"pages" : [
+					{"page_title" : "Music of the spinning wheel","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Music of the spinning wheel>>","associated_tags" : [{"tag" : "mahatma gandhi"},{"tag" : "spinning wheel"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "spiral",
+		"pages" : [
+					{"page_title" : "Spirals","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Spirals>>","associated_tags" : [{"tag" : "rope"},{"tag" : "spiral"},{"tag" : "structure"}]},
+					{"page_title" : "Mysterious Spiral","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Mysterious Spiral>>","associated_tags" : [{"tag" : "biology"},{"tag" : "natural formation"},{"tag" : "sea shell"},{"tag" : "spiral"},{"tag" : "structure"}]}
+				  ],
+		"weight" : "2"
+	},
+	{
+		"tag_name": "star",
+		"pages" : [
+					{"page_title" : "The Sun","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: The Sun>>","associated_tags" : [{"tag" : "astronomy"},{"tag" : "star"},{"tag" : "sun"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "stars",
+		"pages" : [
+					{"page_title" : "Sky, Stars and Planets","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Sky, Stars and Planets>>","associated_tags" : [{"tag" : "astronomy"},{"tag" : "celestial"},{"tag" : "color"},{"tag" : "planets"},{"tag" : "sky"},{"tag" : "stars"},{"tag" : "sun"},{"tag" : "terrestrial"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "step",
+		"pages" : [
+					{"page_title" : "Step: a learning studio","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Step: a learning studio>>","associated_tags" : [{"tag" : "classical physics"},{"tag" : "learning studio"},{"tag" : "molecular dynamics"},{"tag" : "physics"},{"tag" : "simulatioin"},{"tag" : "step"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "story of stuff",
+		"pages" : [
+					{"page_title" : "The story of stuff project","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: The story of stuff project>>","associated_tags" : [{"tag" : "Anne Leonard"},{"tag" : "consumerism"},{"tag" : "story of stuff"},{"tag" : "stuff"},{"tag" : "sustainability"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "structure",
+		"pages" : [
+					{"page_title" : " lab.gnowledge.org-Research","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject:  lab.gnowledge.org-Research>>","associated_tags" : [{"tag" : "Dynamic"},{"tag" : "Research"},{"tag" : "gnowledge lab"},{"tag" : "knowledge"},{"tag" : "lab"},{"tag" : "network"},{"tag" : "structure"}]},
+					{"page_title" : "Spirals","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Spirals>>","associated_tags" : [{"tag" : "rope"},{"tag" : "spiral"},{"tag" : "structure"}]},
+					{"page_title" : "Organic Mesh","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Organic Mesh>>","associated_tags" : [{"tag" : "plant"},{"tag" : "structure"}]},
+					{"page_title" : "Minas Tirith","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Minas Tirith>>","associated_tags" : [{"tag" : "ants"},{"tag" : "mud"},{"tag" : "structure"}]},
+					{"page_title" : "Green flowers","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Green flowers>>","associated_tags" : [{"tag" : "green"},{"tag" : "plants"},{"tag" : "structure"}]},
+					{"page_title" : "Conical Towers","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Conical Towers>>","associated_tags" : [{"tag" : "leaves"},{"tag" : "plants"},{"tag" : "structure"}]},
+					{"page_title" : "Green netwroks","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Green netwroks>>","associated_tags" : [{"tag" : "leaf"},{"tag" : "leaves"},{"tag" : "nature"},{"tag" : "networks"},{"tag" : "plants"},{"tag" : "structure"}]},
+					{"page_title" : "Mysterious Spiral","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Mysterious Spiral>>","associated_tags" : [{"tag" : "biology"},{"tag" : "natural formation"},{"tag" : "sea shell"},{"tag" : "spiral"},{"tag" : "structure"}]}
+				  ],
+		"weight" : "8"
+	},
+	{
+		"tag_name": "students",
+		"pages" : [
+					{"page_title" : "Learning Studios","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Learning Studios>>","associated_tags" : [{"tag" : "Learning"},{"tag" : "Learning studios"},{"tag" : "Studios"},{"tag" : "constructionism"},{"tag" : "education"},{"tag" : "students"},{"tag" : "teachers"}]},
+					{"page_title" : "Diwaswapna","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Diwaswapna>>","associated_tags" : [{"tag" : "books"},{"tag" : "classroom"},{"tag" : "education"},{"tag" : "india"},{"tag" : "students"},{"tag" : "teachers"}]}
+				  ],
+		"weight" : "2"
+	},
+	{
+		"tag_name": "studio",
+		"pages" : [
+					{"page_title" : "classroom vs studio","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: classroom vs studio>>","associated_tags" : [{"tag" : "classroom"},{"tag" : "design"},{"tag" : "learning"},{"tag" : "learning enviornment"},{"tag" : "metastudio"},{"tag" : "studio"}]},
+					{"page_title" : "Bringing learning closer to life","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Bringing learning closer to life>>","associated_tags" : [{"tag" : "collaboration"},{"tag" : "design"},{"tag" : "education"},{"tag" : "learning"},{"tag" : "learning environment"},{"tag" : "life"},{"tag" : "living"},{"tag" : "metastudio"},{"tag" : "network"},{"tag" : "school"},{"tag" : "studio"},{"tag" : "village"}]}
+				  ],
+		"weight" : "2"
+	},
+	{
+		"tag_name": "stuff",
+		"pages" : [
+					{"page_title" : "The story of stuff project","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: The story of stuff project>>","associated_tags" : [{"tag" : "Anne Leonard"},{"tag" : "consumerism"},{"tag" : "story of stuff"},{"tag" : "stuff"},{"tag" : "sustainability"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "sugar",
+		"pages" : [
+					{"page_title" : "Magic moment","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Magic moment>>","associated_tags" : [{"tag" : "khairat"},{"tag" : "sugar"},{"tag" : "wonder"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "sun",
+		"pages" : [
+					{"page_title" : "The Sun","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: The Sun>>","associated_tags" : [{"tag" : "astronomy"},{"tag" : "star"},{"tag" : "sun"}]},
+					{"page_title" : "Sky, Stars and Planets","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Sky, Stars and Planets>>","associated_tags" : [{"tag" : "astronomy"},{"tag" : "celestial"},{"tag" : "color"},{"tag" : "planets"},{"tag" : "sky"},{"tag" : "stars"},{"tag" : "sun"},{"tag" : "terrestrial"}]}
+				  ],
+		"weight" : "2"
+	},
+	{
+		"tag_name": "sustainability",
+		"pages" : [
+					{"page_title" : "The story of stuff project","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: The story of stuff project>>","associated_tags" : [{"tag" : "Anne Leonard"},{"tag" : "consumerism"},{"tag" : "story of stuff"},{"tag" : "stuff"},{"tag" : "sustainability"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "teacher",
+		"pages" : [
+					{"page_title" : " Workshop for primary school teachers in RVEC , Bangalore ","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject:  Workshop for primary school teachers in RVEC , Bangalore >>","associated_tags" : [{"tag" : "Workshop"},{"tag" : "bangalore"},{"tag" : "primary scholl"},{"tag" : "teacher"}]},
+					{"page_title" : "Teachers Training Workshop at Khalapur, Raigad ","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Teachers Training Workshop at Khalapur, Raigad >>","associated_tags" : [{"tag" : "Workshop"},{"tag" : "khalapur"},{"tag" : "raigarh"},{"tag" : "teacher"},{"tag" : "training"}]}
+				  ],
+		"weight" : "2"
+	},
+	{
+		"tag_name": "teachers",
+		"pages" : [
+					{"page_title" : "Learning Studios","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Learning Studios>>","associated_tags" : [{"tag" : "Learning"},{"tag" : "Learning studios"},{"tag" : "Studios"},{"tag" : "constructionism"},{"tag" : "education"},{"tag" : "students"},{"tag" : "teachers"}]},
+					{"page_title" : "Diwaswapna","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Diwaswapna>>","associated_tags" : [{"tag" : "books"},{"tag" : "classroom"},{"tag" : "education"},{"tag" : "india"},{"tag" : "students"},{"tag" : "teachers"}]},
+					{"page_title" : "Diwaswapna","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Diwaswapna>>","associated_tags" : [{"tag" : "diwaswapna"},{"tag" : "education"},{"tag" : "gijubhai badheka"},{"tag" : "india"},{"tag" : "krishna kumar"},{"tag" : "primary"},{"tag" : "schools"},{"tag" : "teachers"}]}
+				  ],
+		"weight" : "3"
+	},
+	{
+		"tag_name": "team",
+		"pages" : [
+					{"page_title" : "lab.gnowledge.org-Team","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: lab.gnowledge.org-Team>>","associated_tags" : [{"tag" : "gnowledge org"},{"tag" : "lab"},{"tag" : "team"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "technical writing",
+		"pages" : [
+					{"page_title" : "Sample Maths Equations","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Sample Maths Equations>>","associated_tags" : [{"tag" : "documentation"},{"tag" : "equation"},{"tag" : "formula"},{"tag" : "latex"},{"tag" : "mathematics"},{"tag" : "orgmode"},{"tag" : "technical writing"}]},
+					{"page_title" : "Orgmode Illustration 3","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Orgmode Illustration 3>>","associated_tags" : [{"tag" : "documentation"},{"tag" : "mathematics"},{"tag" : "metastudio"},{"tag" : "orgmode"},{"tag" : "technical writing"}]}
+				  ],
+		"weight" : "2"
+	},
+	{
+		"tag_name": "terrestrial",
+		"pages" : [
+					{"page_title" : "Sky, Stars and Planets","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Sky, Stars and Planets>>","associated_tags" : [{"tag" : "astronomy"},{"tag" : "celestial"},{"tag" : "color"},{"tag" : "planets"},{"tag" : "sky"},{"tag" : "stars"},{"tag" : "sun"},{"tag" : "terrestrial"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "text editor",
+		"pages" : [
+					{"page_title" : "Orgmode Editor","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Orgmode Editor>>","associated_tags" : [{"tag" : "editor"},{"tag" : "emacs"},{"tag" : "help"},{"tag" : "organic molecule"},{"tag" : "software"},{"tag" : "text editor"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "training",
+		"pages" : [
+					{"page_title" : "Teachers Training Workshop at Khalapur, Raigad ","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Teachers Training Workshop at Khalapur, Raigad >>","associated_tags" : [{"tag" : "Workshop"},{"tag" : "khalapur"},{"tag" : "raigarh"},{"tag" : "teacher"},{"tag" : "training"}]},
+					{"page_title" : " Workshop for B.ED Teacher training for FOSS, CSSM,Chembur ","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject:  Workshop for B.ED Teacher training for FOSS, CSSM,Chembur >>","associated_tags" : [{"tag" : "BED teacher"},{"tag" : "CSSM"},{"tag" : "Chembur"},{"tag" : "Workshop"},{"tag" : "foss"},{"tag" : "training"}]}
+				  ],
+		"weight" : "2"
+	},
+	{
+		"tag_name": "unix",
+		"pages" : [
+					{"page_title" : "GNU","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: GNU>>","associated_tags" : [{"tag" : "free software"},{"tag" : "gnu"},{"tag" : "operating system"},{"tag" : "richard stallman"},{"tag" : "software freedom"},{"tag" : "unix"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "video",
+		"pages" : [
+					
+				  ],
+		"weight" : "0"
+	},
+	{
+		"tag_name": "vigyan",
+		"pages" : [
+					{"page_title" : "vigyan vividha","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: vigyan vividha>>","associated_tags" : [{"tag" : "vigyan"},{"tag" : "vividha"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "village",
+		"pages" : [
+					{"page_title" : "Bringing learning closer to life","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Bringing learning closer to life>>","associated_tags" : [{"tag" : "collaboration"},{"tag" : "design"},{"tag" : "education"},{"tag" : "learning"},{"tag" : "learning environment"},{"tag" : "life"},{"tag" : "living"},{"tag" : "metastudio"},{"tag" : "network"},{"tag" : "school"},{"tag" : "studio"},{"tag" : "village"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "vividha",
+		"pages" : [
+					{"page_title" : "vigyan vividha","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: vigyan vividha>>","associated_tags" : [{"tag" : "vigyan"},{"tag" : "vividha"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "walter",
+		"pages" : [
+					{"page_title" : "Walter","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Walter>>","associated_tags" : [{"tag" : "khairat"},{"tag" : "olpc"},{"tag" : "walter"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "water",
+		"pages" : [
+					{"page_title" : "geometric shapes of polyatomic molecules ","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: geometric shapes of polyatomic molecules >>","associated_tags" : [{"tag" : "ammonia"},{"tag" : "hybridization"},{"tag" : "methane"},{"tag" : "molecule"},{"tag" : "polyatomic"},{"tag" : "water"}]},
+					{"page_title" : "water","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: water>>","associated_tags" : [{"tag" : "molecule"},{"tag" : "water"}]},
+					{"page_title" : "Golden Waters","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Golden Waters>>","associated_tags" : [{"tag" : "scenery"},{"tag" : "water"}]},
+					{"page_title" : "Ignited sea","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Ignited sea>>","associated_tags" : [{"tag" : "colours"},{"tag" : "light"},{"tag" : "reflection"},{"tag" : "water"}]}
+				  ],
+		"weight" : "4"
+	},
+	{
+		"tag_name": "where is your lesson plan?",
+		"pages" : [
+					{"page_title" : "lesson 1 group 4","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: lesson 1 group 4>>","associated_tags" : [{"tag" : "where is your lesson plan?"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "wiki.metastudio.org",
+		"pages" : [
+					{"page_title" : "Metastudio","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Metastudio>>","associated_tags" : [{"tag" : "metastudio"},{"tag" : "wiki.metastudio.org"}]},
+					{"page_title" : "wiki.metastudio.org","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: wiki.metastudio.org>>","associated_tags" : [{"tag" : "Main Page"},{"tag" : "metastudio"},{"tag" : "wiki.metastudio.org"}]}
+				  ],
+		"weight" : "2"
+	},
+	{
+		"tag_name": "wing",
+		"pages" : [
+					{"page_title" : "wing of a military moth","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: wing of a military moth>>","associated_tags" : [{"tag" : "moth"},{"tag" : "wing"}]}
+				  ],
+		"weight" : "1"
+	},
+	{
+		"tag_name": "wonder",
+		"pages" : [
+					{"page_title" : "Magic moment","page_url" : "<bound method Gbobject.get_absolute_url of <Gbobject: Magic moment>>","associated_tags" : [{"tag" : "khairat"},{"tag" : "sugar"},{"tag" : "wonder"}]}
+				  ],
+		"weight" : "1"
+	}
+]

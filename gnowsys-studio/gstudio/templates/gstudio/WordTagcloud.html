@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html xmlns:xlink="http://www.w3.org/1999/xlink">
+
+<head>
+	<meta charset="utf-8">
+	
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>	
+	<script src="/static/gstudio/js/d3.v3.js"></script>
+	<script src="/static/gstudio/js/d3.layout.cloud.js"></script>
+	
+	<style type="text/css">
+	
+		.divOverlay 
+		{
+			position:fixed; top:40%; left:50%; height:20em; width:26em;
+			margin-top: -10em; margin-left: -13em; 
+			
+  			border-color:#a0997d; border-style:solid; border-width:8px; border-radius:5px; background-clip: padding-box;  			
+  			  			
+  			box-shadow:2px 2px 10px 10px #a5a5a5;
+  			
+		    overflow:auto;
+		    
+			position:absolute; visibility:hidden; z-index:500;			
+
+			background:#e0f4ff; opacity:0.95; 		
+			
+			padding:10px;	
+		}		
+		
+	</style>
+
+	<script language="javascript" type="text/javascript">
+	
+	//To show DIV Overlay.
+	function ShowOverlay(ch,tagName) 
+	{		
+		var divObject = document.getElementById('div1');
+			divObject.style.visibility = "visible";	
+			
+
+		$("#divContent").html("");
+		$("#divContent").append("<center><h3>"+tagName+"</h3></center>");
+   		$("#divContent").append("<hr noshade color='#a0997d'><center><img id='processing' alt='Processing...' src='/static/gstudio/img/Processing.gif' height='45' width='45' style='visibility:visible;padding-top:20px;'/ ></center>");					    		
+		
+		
+		//AJAX call to get all associated page titles and their links.
+		$.ajax(
+		{
+			url: '/gstudio/resources/images/gettitle/',
+			
+			data: {data:ch},
+			success: function(data)
+			{	
+				var el = document.getElementById("processing");
+					el.parentNode.removeChild(el);
+											
+				if(data)
+				{							
+					obj = JSON.parse(data);
+		
+					$("#divContent").append("<ul>");						
+		
+			   		for(var i=0;i<obj.length;i++)
+					{								
+						//$("#divContent").append("<li><a href=http://"+obj[i].url+" target='_blank'><b>"+obj[i].page_title+"</b></a><br><br></li>");
+						$("#divContent").append("<li> <b onclick=Redirect_Page(" + obj[i].page_id + ") style='cursor:pointer;'>" +obj[i].page_title+"</b>          </a><br><br> </li>");
+					}
+					
+					$("#divContent").append("</ul>");								  
+					}
+				else
+				{
+					$("#divContent").append("No pages are associated with this tag !!");
+				}						
+			}
+		});
+	}
+	
+	function Redirect_Page(pgID)
+	{
+		$.ajax(
+		{ 
+			url:'/gstudio/resources/images/geturl/',
+			data:{data:pgID},
+			success: function(data)
+			{
+				//redirect to new page.
+				window.location = data
+			}
+		}
+		);
+	}
+	
+	//To close DIV Overlay.	
+	function CloseOverlay(divId) 
+	{
+		var divObject = document.getElementById(divId);
+		divObject.style.visibility = "hidden";
+		document.getElementById("divContent").innerHTML = "";		
+	}
+	
+	</script>
+
+</head>	
+
+  <body>
+
+  	<!--Div tag acting as Overlay -->
+  	
+	<div id="div1" class="divOverlay">
+	
+		<img id="close" style="cursor:pointer;" onclick="CloseOverlay('div1')" src="/static/gstudio/img/close.png" alt="[ close ]" align="right" />
+		
+		<div id="divContent" style="padding:20px; color:#66ccff;"></div>
+		</br>
+		
+	</div>
+	
+	<script type="text/javascript">
+
+	//This will set 20 colors for text.
+	var fill = d3.scale.category20();
+	   
+	//height and width for SVG Canvas area.   
+	var w = 1200,
+	    h = 700;
+	
+	//Multiplier to actual weight in JSON file, to make it visible.
+	var mult = 10;
+	
+	//d3 function to take data from JSON file.	    	   
+	//d3.json("/static/gstudio/json/tag_cloud.json", function(data)
+	d3.json("/gstudio/resources/images/tagdata", function(data) 	//url: '/gstudio/resources/images/geturl/',
+	{	 
+   	      d3.layout.cloud().size([w, h])
+		  .words(data.map(function(d){
+		  								//map function to attach json data to local variables like 'text', 'size', 'pagelist'.
+		  								return {text: d.tag_name, size: (d.weight * mult) + mult, pagelist: d.pages, tagID: d.tag_id}; 
+		  							}))
+		  //Following is code to arrange, decorate Text.			  							
+		  .rotate(function() { return ~~(Math.random() * 2) * 90; })
+		  .font("Times New Roman")
+		  .fontSize(function(d) { return d.size; })
+		  .on("end", draw)//'function draw(words)' is called here, which is declared following this code.
+		  .start();
+	});//End of d3.json()
+	    
+	function draw(words) 
+	{
+		d3.select("body").append("svg")		    
+		    .attr("width", w)
+		    .attr("height", h)
+		  .append("g")
+		    .attr("transform", "translate(600,350)")
+		  .selectAll("text")
+		    .data(words)
+		  .enter()		 
+  		    //.append("svg:a")
+            //.attr("xlink:href", function(d){return "http://www.google.co.in/";})
+
+          //To append text
+		  .append("text")		    		  
+		    .style("font-size", function(d) { return d.size + "px"; })
+		    .style("font-family", "Times New Roman")
+		    .style("fill", function(d, i) { return fill(i); })	
+		    .style("cursor","pointer")	    
+		    //.attr("onclick",function(d){return "return ShowOverlay('"+d.text+"')";})
+		    .attr("onclick",function(d){return "return ShowOverlay("+d.tagID+",'"+d.text+"')";})		   		   		   		   
+		    .attr("textlen",function(d){return d.text.length;})
+		    .attr("text-anchor", "middle")
+		    .attr("transform", function(d) {
+		      return "translate(" + [d.x, d.y] + ")rotate(" + d.rotate + ")";
+		    })		    		    
+		    .text(function(d) { return d.text; })
+	
+		  //To append ToolTip	
+		  .append("svg:title")
+			.text(function(d)
+			{				
+				var j , str = "";
+				count = (d.size/mult)-1;
+					
+				if (count > 0 && d.pagelist[0])
+				{											 
+					for(j = 0 ; j < count ; j++)
+					{
+						str += d.pagelist[j]['page_title'];
+						str += ((j+1) != count)? " , " + "\n" : "\n" ;							
+		        	}
+		        	return str;
+		        }
+		       	    
+		        return "No associated Page !!";	
+		    });		  		     
+	}
+	</script>	
+
+  </body>
+
+</html>

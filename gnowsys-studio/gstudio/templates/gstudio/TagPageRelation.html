@@ -1,0 +1,319 @@
+
+<html xmlns:xlink="http://www.w3.org/1999/xlink">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    
+    <script type="text/javascript" src="/static/gstudio/js/TagPageRel/d3.js"></script>
+    
+    <!--<script type="text/javascript" src="http://mbostock.github.com/d3/d3.js?1.27.2"></script>    
+    <script type="text/javascript" src="http://mbostock.github.com/d3/d3.geom.js?1.27.2"></script>
+    <script type="text/javascript" src="http://mbostock.github.com/d3/d3.layout.js?1.27.2"></script>
+    
+	<!--<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>-->
+	<script type="text/javascript" src="/static/gstudio/js/TagPageRel/jquery-2.0.0.js"></script>	
+
+	<script>
+		var href = window.location.href;
+		var	host = window.location.host;
+		var hostLen = host.length;
+		
+		href = href.slice(hostLen+7,href.length);
+		
+		var pageNodeId = (href.match(/[0-9]/g)).join("");
+	</script>
+
+    <style type="text/css">
+
+	.node circle 
+	{
+	  cursor: pointer;
+	  stroke: #3182bd;
+	  stroke-width: 1.5px;
+	}
+
+	.node text 
+	{
+	  font: 10px sans-serif;
+	  pointer-events: none;
+	}
+
+	line.link 
+	{
+	  fill: none;
+	  stroke: #9ecae1;
+	  stroke-width: 1.5px;
+	  stroke-opacity: 1.0;
+	}
+	
+	marker#arrow 
+	{
+    	fill: #666;
+	}
+
+    </style>
+    
+  </head>
+  
+  <body>
+  	
+    <div id="TagPageRel"></div>
+  
+    <script type="text/javascript">
+
+	var w = 500,
+    	h = 500,
+    	root;
+
+	var force = d3.layout.force()
+    				.linkDistance(100)//this is distance between two nodes.
+				    .charge(-200)     //this is attraction betweeb nodes.
+				    .gravity(0.05)    //gravity ensures that graph will not get out of border.
+				    .size([w, h]);
+
+	//creating SVG Canvas :
+	var vis = d3.select("#TagPageRel").append("svg:svg")
+			    .attr("width", w)
+			    .attr("height", h)
+			    .attr("id","TagPageRelSVG");
+
+	/*
+	var jsonData = $.ajax({
+			url:'/gstudio/ajax/relation/schema/tagpage/',
+			//url:'/gstudio/ajax/relation/schema/tagpage/ajax_getschema_tp_views',
+			data:{data:3034},
+			sucess:function(data){}
+		  });
+	*/	  
+				
+	//adding json file :
+	//d3.json("/static/gstudio/json/graph.json", function(json) { root = json; update();} );
+	d3.json("/gstudio/ajax/relation/schema/tagpage?data="+pageNodeId, function(json) { root = json;update();} );
+
+	//define marker of Arrow.
+	vis.append("svg:defs").append("svg:marker")
+		.attr("id", "end-arrow")
+		.attr("viewBox", "0 0 10 10")
+		.attr("refX", 20)
+		.attr("refY", 5)
+		.attr("markerUnits","strokeWidth")
+		.attr("markerWidth", 10)
+		.attr("markerHeight", 5)
+		.attr("orient", "auto")
+		.append("svg:path")
+			.attr("d","M 0 0 L 10 5 L 0 10 z")
+			.attr("fill", "#7ea1b4"); 
+
+
+ 	var totalnodes,fix;
+
+	//Update function to create, modify, hide nodes and links
+	function update() 
+	{
+	  	  var nodes = flatten(root), 	//flatten gets all nodes fron json file recursively.
+		  links = d3.layout.tree().links(nodes);
+		  totalnodes = nodes;
+		  fix = nodes;
+		  
+		  // Restart the force layout.
+		  force
+			  .nodes(nodes)
+			  .links(links)
+			  .start();
+
+		  // Update the links…
+		  var link = vis.selectAll("line.link")
+						  .data(links, function(d) { return d.target.id; });
+
+		  // Enter any new links.
+	  	  link.enter().insert("svg:line", ".node")
+		  .attr("class", "link")	  
+		  .attr("x1", function(d) { return d.source.x; })
+		  .attr("y1", function(d) { return d.source.y; })
+		  .attr("x2", function(d) { return d.target.x; })
+		  .attr("y2", function(d) { return d.target.y; })
+		  .attr("marker-end", "url(#end-arrow)");
+
+		  // Exit any old links.
+		  link.exit().remove();
+
+		  // Update the nodes…
+		  var node = vis.selectAll("g.node")
+						  .data(nodes, function(d) { return d.id; })
+
+		  node.select("circle")
+				  .style("fill", color);
+
+		  // Enter any new nodes.
+		  var nodeEnter = node.enter().append("svg:g")
+							  .attr("class", "node")
+							  .attr("degree",function(d){return d.degree?d.degree:0;})
+							  .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; })
+							  .on("click", click)
+							  .call(force.drag);
+			    
+		  nodeEnter.append("svg:a") //To append hyperlink to circle
+	  	    	.attr("class", "node")
+		  		.attr("xlink:href", function(d){ return d.url; })	
+		  	.append("svg:circle")   //To append circle.
+		  	.attr("r", function(d) { return d.size || 4.5; })
+		  	//.attr("onclick",function(d){ if(d.page_id){Redirect_Page(d.page_id);} })
+		  	//.attr("onclick","Redirect_Page("+d.page_id+")")
+		  	//.attr("onclick","Redirect_Page("+function(d.page_id){return d.page_id;}+")")
+		  	.style("fill", color)
+		  	.style();
+		  
+		  //Appending tooltip to circle.	
+		  nodeEnter.append("svg:title")
+		  	.text(function(d) { return d.name; });      	
+		
+		  //Appending text to circle.	
+	  	  nodeEnter.append("svg:text")
+		  	.attr("text-anchor", "middle")
+		  	.attr("dy", ".35em")
+		  	.text(function(d) { return d.name; });      	
+
+	  	  // Exit any old nodes.
+	 	  node.exit().remove();
+
+	 	  // Re-select for update.
+	  	  link = vis.selectAll("line.link");
+		  node = vis.selectAll("g.node");
+
+		  force.on("tick", function() 
+		  {
+			link.attr("x1", function(d) { return d.source.x; })
+			    .attr("y1", function(d) { return d.source.y; })
+			    .attr("x2", function(d) { return d.target.x; })
+			    .attr("y2", function(d) { return d.target.y; });
+
+			node.attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; });
+	  	  });
+	}//end of Update() 
+
+	// Color leaf nodes orange, and packages white or blue.
+	function color(d) 
+	{
+		  return d._children ? "#3182bd" : d.children ? "#c6dbef" : "#fd8d3c"; //d._children means collapsed nodes.
+	}
+
+	// Toggle children on click ( means to show or hide children).
+	function click(d) 
+	{	
+		  if (d.children) //this means all childs are expored and this 'if' block will recollect them in one node.
+		  {
+			d._children = d.children;
+			d.children = null;
+	  	  }
+	  	  else //this 'else' block will re-explore collected, collaborated nodes. 
+	  	  {
+			d.children = d._children;
+			d._children = null;
+	  	  }
+	  	  
+	  	  //alert("kheswkiadhs");
+		  update();
+	}
+
+	// Returns a list of all nodes under the root.
+	function flatten(root) 
+	{
+		  var nodes = [], i = 0;
+
+		  function recurse(node) 
+		  {
+			if (node.children) 
+				node.children.forEach(recurse);
+				
+			if (!node.id)
+				 node.id = ++i;		//id field is inserted for each node
+				 
+			nodes.push(node);
+	  	  }
+
+		  recurse(root);  
+	  	  return nodes;
+	}
+	
+	/*
+	function Redirect_Page(pgID)
+	{
+		//alert(pgID);
+		
+		//var u ;
+		$.ajax(
+		{ 
+			url:'/gstudio/resources/images/geturl/',
+			data:{data:pgID},
+			success: function(data)
+			{
+				//u = data;
+				//redirect to new page.
+				window.location = data
+			}
+		}
+		);
+		//alert(u);
+		//return '"'+u+'"';
+	}
+	*/
+	
+	$( document ).ready(function() 
+	{
+            $("input[type='radio']").change( function() 
+            {
+            	var i, degreeSelection = $(this).attr("value");            	        	            	
+            	            	
+            	var l = totalnodes.length;
+
+            	for(i=0; i < totalnodes.length ; i++)
+            	{           		
+            		if(totalnodes[i].degree)
+            		{            		
+	            		if( (totalnodes[i].degree < degreeSelection) )	
+	            		{
+	            			if (!totalnodes[i].children)//Explore Node.							
+						  	  {
+								totalnodes[i].children = totalnodes[i]._children;
+								totalnodes[i]._children = null;
+						  	  }						 
+	            		}
+	            		
+	            		if(totalnodes[i].degree >= degreeSelection)	
+	            		{
+	            			  if (totalnodes[i].children)//Collapse Node.
+							  {
+								totalnodes[i]._children = totalnodes[i].children;
+								totalnodes[i].children = null;
+						  	  }
+	            		}	            		
+            		}
+            	}
+            	update();
+            	
+            	for(i=0;i<totalnodes.length;i++)
+            	{
+            		if(totalnodes[i].degree)
+            		{	
+	            		if( (totalnodes[i].degree < degreeSelection) )	
+	            		{         			
+	            			if (!totalnodes[i].children)//Explore Node.							
+						  	  {
+								totalnodes[i].children = totalnodes[i]._children;
+								totalnodes[i]._children = null;
+						  	  }						 
+	            		}
+	            	}
+            	}
+            	update();
+			});
+    });
+	  	 
+    </script>
+    
+    <input type="radio" name="degree" value="1">Zero (0)<br>
+	<input type="radio" name="degree" value="2">One (1)<br>
+	<input type="radio" name="degree" value="3" checked="checked">Two (2)<br>
+	
+    
+  </body>
+</html>

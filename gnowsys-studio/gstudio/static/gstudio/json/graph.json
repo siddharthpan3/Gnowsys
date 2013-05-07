@@ -1,0 +1,37 @@
+{
+ "name": "Beta.MetaStudio.org",
+ "degree":1,
+ "children": 
+ [
+  {
+   "name": "ADAPT",
+   "degree":2,
+   "children": 
+   [
+      {"name": "A cloudscape on the ground", "size": 4 },
+      {"name": "Free Software for Education", "size": 3 },
+      {"name": "Inputability", "size": 4 }
+   ]
+  },	
+  {
+   "name": "education",
+   "degree":2,
+   "children": 
+   [
+      {"name": "Digital Learning Studios DVD", "size": 4,"url": "http://www.google.co.in/"},
+      {"name": "Learning Studios", "size": 5},
+      {"name": "Constructionism", "size": 6 },
+      {"name": "Diwaswapna", "size": 3 }
+   ]
+  },
+  {
+   "name": "Adding Attributetypes",
+   "degree":2,
+   "children": 
+   [
+      {"name": "A cloudscape on the ground ", "size": 4 }
+   ]
+  }
+ ]
+}
+
